@@ -36,10 +36,10 @@ Data Logging: JSON-based storage for health interaction logs
 Language Support: Kannada, English and Hindi
 
 ## Tech Stack:
-Framework: Streamlit
-Machine Learning: Scikit-Learn, Pandas, NumPy, Joblib
-Visualization: Plotly
-UI Components: streamlit-option-menu
+Framework: Streamlit.
+Machine Learning: Scikit-Learn, Pandas, NumPy, Joblib.
+Visualization: Plotly.
+UI Components: streamlit-option-menu.
 
 ## Installation:
 1 Install dependencies
@@ -62,3 +62,4 @@ Mobile application version
 NLP-based free-text symptom input
 
 Disease trend analysis for outbreak monitoring
+
