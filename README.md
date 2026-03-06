@@ -1,5 +1,9 @@
 ## HealthBridge: AI-Based Symptom Intelligence System
 
+## The application will open at:
+https://health-bridge.streamlit.app/
+
+
 ### HealthBridge is an AI-powered health triage system designed to improve healthcare accessibility in rural communities. The system analyzes patient symptoms using machine learning models to estimate health risk levels and predict possible diseases. It provides an easy-to-use interface for patients, a simulated IVR workflow for feature-phone users, and an admin dashboard for monitoring health trends.
 
 ## Key Features:
@@ -43,9 +47,6 @@ pip install -r requirements.txt
 
 2 Run the application
 streamlit run app_streamlit.py
-The application will open at:
-
-http://localhost:8504
 
 ## Machine Learning Models:
 The system uses trained Random Forest models:
@@ -59,4 +60,5 @@ Model evaluation metrics include Accuracy, Precision, and Recall, which are disp
 Real IVR integration using telephony APIs
 Mobile application version
 NLP-based free-text symptom input
+
 Disease trend analysis for outbreak monitoring
