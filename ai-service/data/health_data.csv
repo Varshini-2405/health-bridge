@@ -1,0 +1,2501 @@
+fever,cough,fatigue,shortness_of_breath,headache,body_ache,sore_throat,age_group,disease,risk_level
+0,1,1,0,0,0,0,2,Common Cold,0
+0,1,0,1,1,0,0,0,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,1,0,0,0,0,0,0,Common Cold,0
+0,1,1,1,0,0,0,1,COVID-19,2
+0,0,0,1,0,0,0,1,COVID-19,2
+0,0,1,1,1,1,0,2,COVID-19,2
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,1,0,1,1,0,COVID-19,2
+0,1,1,1,1,0,0,0,COVID-19,2
+1,0,0,0,0,0,1,1,Common Cold,0
+1,0,0,1,1,0,1,1,Pneumonia,2
+0,0,0,0,0,0,0,1,Common Cold,0
+1,0,0,1,0,0,0,0,Pneumonia,2
+1,1,0,1,1,0,1,1,Pneumonia,2
+1,1,0,0,0,0,1,2,Flu,1
+0,0,0,0,0,0,1,1,Common Cold,0
+0,1,0,1,1,0,0,1,COVID-19,2
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,1,0,0,1,0,2,Common Cold,0
+0,0,0,0,0,1,0,0,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,1,0,0,0,1,2,Common Cold,0
+0,0,1,0,0,0,0,2,Common Cold,0
+1,0,0,0,1,1,1,2,Malaria,1
+0,0,0,1,0,0,0,1,COVID-19,2
+0,0,0,0,0,0,1,0,Common Cold,0
+0,1,0,1,0,0,0,1,COVID-19,2
+0,0,1,0,1,0,1,1,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+1,1,1,0,0,1,0,2,Malaria,1
+1,1,0,0,1,0,0,1,Flu,1
+1,0,0,0,0,1,0,1,Malaria,1
+1,1,0,1,0,0,1,2,Pneumonia,2
+1,1,0,0,1,0,1,2,Flu,1
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+1,1,0,0,1,0,0,0,Flu,1
+0,1,1,0,0,0,0,0,Common Cold,0
+0,1,0,0,1,1,0,1,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+1,1,0,0,0,0,0,1,Flu,1
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,0,1,0,1,2,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+1,0,1,0,0,0,0,2,Common Cold,0
+1,1,0,0,1,1,1,1,Malaria,1
+0,1,0,1,1,0,1,2,COVID-19,2
+0,1,0,1,0,1,0,0,COVID-19,2
+1,0,0,1,1,0,0,1,Pneumonia,2
+0,0,0,1,1,1,0,1,COVID-19,2
+0,0,0,1,0,0,0,2,COVID-19,2
+0,0,0,1,0,1,1,0,COVID-19,2
+0,1,0,0,1,1,1,2,Common Cold,0
+0,0,1,0,0,1,0,1,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+1,0,0,1,0,1,0,2,Pneumonia,2
+0,1,0,1,0,0,1,1,COVID-19,2
+0,0,0,0,0,1,0,0,Common Cold,0
+1,1,0,0,0,0,0,1,Flu,1
+0,0,1,1,0,0,0,2,COVID-19,2
+0,0,1,1,1,1,0,1,COVID-19,2
+1,1,0,0,0,1,1,0,Malaria,1
+0,0,1,1,1,0,0,0,COVID-19,2
+0,1,1,1,1,0,1,2,COVID-19,2
+1,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,0,0,1,0,2,Common Cold,0
+0,0,1,0,0,0,1,1,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+1,0,0,1,0,0,1,2,Pneumonia,2
+0,1,0,0,0,1,0,1,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,1,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,1,0,0,1,2,COVID-19,2
+0,0,1,1,0,0,0,1,COVID-19,2
+0,0,0,1,0,0,1,2,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,1,0,1,Common Cold,0
+1,0,0,0,0,1,0,0,Malaria,1
+0,0,0,0,0,1,0,0,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,1,0,0,1,2,COVID-19,2
+1,0,0,0,1,0,0,0,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,1,0,1,0,0,1,1,COVID-19,2
+0,0,0,1,1,1,0,2,COVID-19,2
+1,0,0,1,0,1,0,2,Pneumonia,2
+0,0,0,1,0,0,0,2,COVID-19,2
+0,1,0,0,0,0,1,1,Common Cold,0
+0,1,0,0,1,0,0,2,Common Cold,0
+0,0,0,1,0,0,1,2,COVID-19,2
+0,0,0,1,0,0,1,2,COVID-19,2
+0,1,0,1,0,0,1,0,COVID-19,2
+0,1,1,0,0,0,0,1,Common Cold,0
+0,1,0,0,0,1,0,1,Common Cold,0
+0,0,0,1,1,0,0,2,COVID-19,2
+1,0,0,0,0,1,1,2,Malaria,1
+0,0,1,1,0,1,1,1,COVID-19,2
+0,0,0,0,1,0,0,1,Common Cold,0
+0,1,0,0,1,0,0,1,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,1,0,0,0,2,COVID-19,2
+0,0,0,1,0,1,0,0,COVID-19,2
+0,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,0,1,1,0,0,Common Cold,0
+0,0,0,0,1,0,0,0,Common Cold,0
+0,0,0,0,1,0,0,0,Common Cold,0
+0,0,1,1,1,0,0,0,COVID-19,2
+0,1,0,0,0,0,0,1,Common Cold,0
+0,1,1,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,1,1,0,Common Cold,0
+1,0,1,1,0,0,0,1,Pneumonia,2
+0,0,0,1,1,0,0,0,COVID-19,2
+0,1,0,0,0,0,0,2,Common Cold,0
+0,0,0,1,1,0,0,1,COVID-19,2
+0,1,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,0,1,1,0,0,0,COVID-19,2
+0,0,0,0,0,1,0,0,Common Cold,0
+1,0,0,0,0,1,1,1,Malaria,1
+0,0,0,0,1,0,1,1,Common Cold,0
+0,0,1,1,1,0,0,2,COVID-19,2
+0,0,0,1,1,0,1,2,COVID-19,2
+0,0,1,0,0,0,1,2,Common Cold,0
+1,0,1,1,0,1,0,1,Pneumonia,2
+0,0,0,0,0,1,0,1,Common Cold,0
+0,1,0,0,1,0,0,0,Common Cold,0
+1,0,1,0,1,1,1,1,Malaria,1
+1,0,0,0,1,1,1,1,Malaria,1
+0,1,0,0,0,0,0,0,Common Cold,0
+0,0,1,0,0,0,0,2,Common Cold,0
+1,0,0,1,1,0,0,0,Pneumonia,2
+1,0,1,0,0,0,0,0,Common Cold,0
+0,0,1,0,0,1,1,2,Common Cold,0
+1,0,0,1,0,0,1,0,Pneumonia,2
+0,0,0,0,0,1,0,0,Common Cold,0
+1,1,1,1,0,0,0,1,Pneumonia,2
+0,0,1,0,0,0,0,0,Common Cold,0
+1,0,0,0,1,0,0,1,Common Cold,0
+0,1,1,0,1,1,1,2,Common Cold,0
+0,0,0,1,0,1,1,0,COVID-19,2
+1,0,0,1,0,1,1,1,Pneumonia,2
+0,0,0,1,0,0,0,1,COVID-19,2
+1,0,1,0,1,0,0,2,Common Cold,0
+0,1,0,0,0,1,0,1,Common Cold,0
+0,0,0,1,1,1,1,0,COVID-19,2
+1,0,0,0,0,1,0,1,Malaria,1
+0,1,0,0,0,1,0,0,Common Cold,0
+0,0,0,0,1,0,0,2,Common Cold,0
+0,0,0,0,1,0,1,0,Common Cold,0
+0,0,0,0,1,0,1,0,Common Cold,0
+1,1,1,1,1,0,0,0,Pneumonia,2
+1,0,1,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,1,0,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+1,0,0,0,0,1,0,1,Malaria,1
+0,1,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,0,1,0,1,0,1,COVID-19,2
+1,1,1,1,0,1,0,2,Pneumonia,2
+0,1,0,0,0,1,0,0,Common Cold,0
+0,0,1,0,1,0,0,2,Common Cold,0
+0,0,0,1,0,1,1,1,COVID-19,2
+0,0,0,0,0,0,1,2,Common Cold,0
+1,0,0,0,1,0,1,1,Common Cold,0
+0,1,0,1,1,0,0,1,COVID-19,2
+1,0,0,0,1,0,1,2,Common Cold,0
+0,0,1,0,1,0,0,2,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,1,0,1,0,0,0,Common Cold,0
+0,0,0,1,0,0,0,2,COVID-19,2
+0,0,0,1,0,0,1,2,COVID-19,2
+0,1,0,0,0,0,0,2,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+1,1,0,1,0,1,0,1,Pneumonia,2
+0,0,0,0,0,1,0,1,Common Cold,0
+1,0,0,0,1,0,0,2,Common Cold,0
+1,0,0,0,1,0,0,2,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+1,0,1,0,1,1,0,2,Malaria,1
+1,0,0,0,1,1,1,1,Malaria,1
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+0,0,0,0,0,1,1,2,Common Cold,0
+1,0,0,0,0,1,0,2,Malaria,1
+0,1,0,0,0,0,0,1,Common Cold,0
+1,0,0,0,1,0,0,0,Common Cold,0
+0,0,0,0,1,0,0,0,Common Cold,0
+1,0,1,0,0,0,1,1,Common Cold,0
+1,1,0,0,0,0,1,2,Flu,1
+0,0,1,0,1,0,0,0,Common Cold,0
+0,0,0,0,1,1,0,0,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+1,0,0,0,0,1,0,2,Malaria,1
+0,0,1,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,1,0,0,0,0,1,Common Cold,0
+1,0,0,1,0,0,0,2,Pneumonia,2
+0,0,0,0,0,0,1,1,Common Cold,0
+0,1,1,0,0,0,1,2,Common Cold,0
+0,1,0,0,0,1,0,2,Common Cold,0
+1,1,0,0,0,0,0,2,Flu,1
+0,0,0,0,0,0,1,1,Common Cold,0
+1,1,0,1,0,1,0,2,Pneumonia,2
+1,1,1,0,0,0,0,1,Flu,1
+0,1,0,1,0,1,1,1,COVID-19,2
+0,1,0,0,0,0,0,0,Common Cold,0
+0,0,1,0,1,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+1,0,0,1,0,0,1,0,Pneumonia,2
+0,0,0,0,0,0,0,2,Common Cold,0
+1,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,1,1,1,0,Common Cold,0
+0,0,0,0,1,0,0,0,Common Cold,0
+0,0,1,1,1,0,0,1,COVID-19,2
+0,1,0,0,0,0,1,1,Common Cold,0
+0,0,0,1,1,1,1,1,COVID-19,2
+0,0,0,1,0,1,0,1,COVID-19,2
+0,1,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,1,0,0,0,Common Cold,0
+1,1,0,0,0,1,0,0,Malaria,1
+0,0,0,1,0,0,0,2,COVID-19,2
+0,1,0,0,0,0,0,2,Common Cold,0
+0,0,0,1,1,0,1,1,COVID-19,2
+0,1,1,0,0,0,1,0,Common Cold,0
+0,0,0,0,1,0,0,0,Common Cold,0
+1,0,0,1,1,1,1,0,Pneumonia,2
+1,0,1,1,1,0,0,1,Pneumonia,2
+1,1,0,0,0,1,1,0,Malaria,1
+0,1,1,0,0,0,0,1,Common Cold,0
+0,1,0,1,0,0,0,0,COVID-19,2
+1,1,0,0,1,0,0,2,Flu,1
+0,0,0,1,0,0,1,0,COVID-19,2
+1,0,1,0,0,0,0,2,Common Cold,0
+1,0,0,1,1,0,0,1,Pneumonia,2
+0,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,1,0,0,0,0,1,2,Common Cold,0
+1,0,0,0,0,0,0,0,Common Cold,0
+0,1,1,1,0,0,0,2,COVID-19,2
+0,0,1,0,0,0,0,1,Common Cold,0
+0,0,0,1,0,0,0,2,COVID-19,2
+0,0,1,1,0,1,0,1,COVID-19,2
+0,0,1,0,0,1,1,0,Common Cold,0
+0,0,1,0,1,0,0,0,Common Cold,0
+0,0,1,0,0,1,0,2,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+0,1,0,0,1,0,1,0,Common Cold,0
+0,0,1,1,0,0,0,1,COVID-19,2
+0,1,0,0,0,0,0,0,Common Cold,0
+1,0,0,0,1,1,0,2,Malaria,1
+0,0,0,0,0,1,1,1,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,1,0,0,0,0,1,1,Common Cold,0
+0,1,1,1,0,0,1,2,COVID-19,2
+0,0,0,1,0,0,0,1,COVID-19,2
+1,0,1,1,0,0,0,2,Pneumonia,2
+0,0,1,0,1,0,0,1,Common Cold,0
+1,0,1,1,0,1,0,0,Pneumonia,2
+0,1,0,0,0,0,0,2,Common Cold,0
+1,0,1,0,1,0,0,0,Common Cold,0
+1,0,0,0,0,0,1,2,Common Cold,0
+0,1,0,1,1,0,1,1,COVID-19,2
+0,1,0,0,0,1,0,0,Common Cold,0
+1,1,0,0,0,0,0,2,Flu,1
+0,0,0,1,0,1,0,0,COVID-19,2
+0,0,0,0,0,1,0,2,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,1,1,1,1,0,0,2,COVID-19,2
+0,0,0,0,0,1,0,1,Common Cold,0
+1,0,0,0,1,1,0,2,Malaria,1
+0,1,1,1,0,1,1,1,COVID-19,2
+1,0,1,0,1,0,0,0,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+1,1,0,0,1,0,0,0,Flu,1
+1,0,0,1,1,0,0,2,Pneumonia,2
+0,0,0,1,0,1,1,1,COVID-19,2
+0,0,0,0,1,0,1,1,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+0,0,1,0,1,0,0,0,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,1,0,0,0,Common Cold,0
+1,0,0,0,0,0,0,2,Common Cold,0
+0,1,1,0,0,0,0,1,Common Cold,0
+1,1,0,0,1,1,1,0,Malaria,1
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+1,0,0,0,0,0,0,2,Common Cold,0
+0,1,1,0,1,0,0,0,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,1,0,1,0,0,0,0,COVID-19,2
+0,1,0,1,1,1,1,1,COVID-19,2
+0,0,0,0,1,0,0,0,Common Cold,0
+0,0,1,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+1,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,1,0,1,0,1,0,2,COVID-19,2
+1,0,1,0,0,0,0,0,Common Cold,0
+0,0,1,1,0,0,0,0,COVID-19,2
+0,0,0,1,0,0,0,0,COVID-19,2
+0,0,0,0,1,1,0,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+1,1,0,1,0,1,0,2,Pneumonia,2
+0,1,1,0,0,1,0,2,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+0,1,1,0,1,1,0,2,Common Cold,0
+0,0,1,0,1,1,0,2,Common Cold,0
+0,0,0,1,0,0,0,2,COVID-19,2
+0,0,0,0,1,0,0,2,Common Cold,0
+0,1,0,1,0,0,1,2,COVID-19,2
+1,0,1,1,0,1,1,1,Pneumonia,2
+0,0,0,0,0,0,0,0,Common Cold,0
+1,1,0,1,0,0,0,1,Pneumonia,2
+1,1,0,0,0,0,0,0,Flu,1
+1,1,0,1,0,0,0,1,Pneumonia,2
+1,0,0,0,0,1,0,1,Malaria,1
+0,0,0,0,0,1,1,2,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+0,0,1,0,0,0,0,0,Common Cold,0
+1,0,1,0,0,1,0,0,Malaria,1
+0,0,1,0,1,1,0,2,Common Cold,0
+0,1,0,0,0,0,0,2,Common Cold,0
+0,0,1,0,1,1,1,2,Common Cold,0
+0,0,1,0,0,0,1,1,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+1,1,0,0,0,1,0,1,Malaria,1
+0,0,0,0,1,0,0,1,Common Cold,0
+1,0,1,0,0,0,0,1,Common Cold,0
+0,1,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,1,1,0,1,0,0,COVID-19,2
+1,1,0,0,0,0,1,1,Flu,1
+0,0,0,0,0,1,1,0,Common Cold,0
+1,1,1,0,0,0,0,0,Flu,1
+0,0,1,0,0,1,1,2,Common Cold,0
+1,0,1,0,0,0,0,0,Common Cold,0
+0,1,0,0,1,0,0,1,Common Cold,0
+0,0,1,0,0,1,1,0,Common Cold,0
+0,0,0,0,0,1,0,0,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,0,0,1,1,2,Common Cold,0
+1,0,1,0,1,1,1,2,Malaria,1
+0,0,0,0,0,0,1,0,Common Cold,0
+1,1,1,1,0,1,1,0,Pneumonia,2
+0,1,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,1,0,0,0,Common Cold,0
+0,1,1,0,0,0,0,1,Common Cold,0
+0,0,0,1,1,0,1,1,COVID-19,2
+0,1,1,1,0,0,1,0,COVID-19,2
+0,0,0,0,0,1,0,1,Common Cold,0
+0,0,0,0,1,0,1,1,Common Cold,0
+0,0,0,1,0,0,1,2,COVID-19,2
+1,0,1,0,0,0,0,0,Common Cold,0
+0,1,0,0,0,1,0,1,Common Cold,0
+1,1,0,0,1,0,0,2,Flu,1
+0,0,0,0,0,1,0,1,Common Cold,0
+0,0,1,0,0,0,0,0,Common Cold,0
+1,1,0,0,1,1,0,1,Malaria,1
+0,1,1,0,0,1,1,2,Common Cold,0
+1,0,0,0,0,0,1,0,Common Cold,0
+1,0,1,0,0,0,0,2,Common Cold,0
+1,0,0,0,0,1,1,1,Malaria,1
+1,0,1,0,1,1,0,2,Malaria,1
+0,0,0,1,1,1,1,1,COVID-19,2
+1,0,0,0,1,1,0,0,Malaria,1
+1,0,1,1,0,0,1,2,Pneumonia,2
+0,1,0,0,1,1,0,2,Common Cold,0
+0,0,0,1,0,0,0,2,COVID-19,2
+0,1,0,0,0,1,1,0,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+1,0,0,1,0,0,0,1,Pneumonia,2
+0,0,1,0,0,0,0,1,Common Cold,0
+1,0,0,0,0,1,0,1,Malaria,1
+0,1,0,0,1,1,0,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+0,0,0,1,0,0,1,1,COVID-19,2
+0,0,0,1,1,0,0,2,COVID-19,2
+1,1,0,0,1,0,0,0,Flu,1
+0,0,0,1,0,1,0,1,COVID-19,2
+1,0,0,0,0,1,1,1,Malaria,1
+0,0,1,0,0,0,0,0,Common Cold,0
+1,0,0,1,1,0,0,0,Pneumonia,2
+0,0,0,0,1,0,0,0,Common Cold,0
+1,1,1,1,1,0,0,1,Pneumonia,2
+1,1,0,0,0,1,0,1,Malaria,1
+0,0,1,0,1,0,0,0,Common Cold,0
+1,0,0,0,1,0,1,0,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+1,0,0,0,0,0,0,0,Common Cold,0
+0,1,1,0,0,0,0,0,Common Cold,0
+0,0,0,0,1,1,0,2,Common Cold,0
+1,0,0,0,1,1,0,1,Malaria,1
+0,0,0,1,0,1,1,2,COVID-19,2
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,1,1,0,0,0,0,COVID-19,2
+0,1,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,1,0,1,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+1,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+1,0,0,0,0,0,0,0,Common Cold,0
+1,0,1,1,1,0,0,2,Pneumonia,2
+0,0,1,1,0,0,0,2,COVID-19,2
+1,0,0,1,0,0,1,0,Pneumonia,2
+0,0,0,1,0,1,0,1,COVID-19,2
+0,0,0,0,0,0,1,1,Common Cold,0
+1,0,0,0,0,0,1,2,Common Cold,0
+0,0,1,0,1,1,1,1,Common Cold,0
+0,0,0,1,0,0,1,2,COVID-19,2
+1,1,0,0,1,0,0,0,Flu,1
+0,1,0,0,0,0,0,1,Common Cold,0
+1,0,0,0,0,0,1,1,Common Cold,0
+1,0,0,0,1,0,0,0,Common Cold,0
+0,0,0,0,0,0,1,2,Common Cold,0
+1,0,0,0,0,0,0,0,Common Cold,0
+0,1,0,0,0,0,0,2,Common Cold,0
+1,0,1,1,1,1,0,1,Pneumonia,2
+0,0,1,0,1,1,1,2,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,0,1,0,1,0,Common Cold,0
+1,0,0,0,1,0,0,2,Common Cold,0
+1,0,1,0,0,0,1,2,Common Cold,0
+0,0,0,1,1,0,1,2,COVID-19,2
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,1,0,0,1,0,0,2,Common Cold,0
+0,0,1,1,1,0,0,1,COVID-19,2
+0,0,0,1,0,0,0,0,COVID-19,2
+0,0,0,0,1,1,0,0,Common Cold,0
+1,1,0,1,0,1,1,0,Pneumonia,2
+1,0,1,0,1,0,0,0,Common Cold,0
+1,1,1,1,0,0,0,0,Pneumonia,2
+0,0,0,0,0,0,1,2,Common Cold,0
+1,0,0,1,0,0,0,0,Pneumonia,2
+0,0,0,0,0,1,0,1,Common Cold,0
+1,0,0,0,0,0,1,0,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,1,0,0,0,1,0,1,Common Cold,0
+1,1,0,0,1,1,1,1,Malaria,1
+0,0,1,0,0,1,0,2,Common Cold,0
+0,0,0,1,0,0,1,0,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+1,1,0,0,0,1,0,0,Malaria,1
+0,1,1,0,0,0,0,2,Common Cold,0
+0,0,0,1,1,0,1,0,COVID-19,2
+0,0,0,0,1,0,0,0,Common Cold,0
+0,1,0,0,1,0,0,1,Common Cold,0
+0,1,1,0,1,0,0,0,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+0,0,1,0,0,0,0,0,Common Cold,0
+1,0,0,0,0,0,1,1,Common Cold,0
+1,0,1,0,0,0,1,1,Common Cold,0
+0,0,1,0,1,0,0,0,Common Cold,0
+1,0,1,0,0,0,0,2,Common Cold,0
+1,1,1,0,0,1,0,2,Malaria,1
+1,0,1,0,0,0,0,0,Common Cold,0
+0,1,1,0,0,1,0,0,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+0,1,1,0,1,1,1,0,Common Cold,0
+0,0,0,0,0,1,1,2,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,1,0,0,0,0,0,1,Common Cold,0
+0,0,0,1,0,1,0,2,COVID-19,2
+1,0,0,1,0,0,0,2,Pneumonia,2
+1,0,0,0,0,1,0,0,Malaria,1
+0,1,0,0,0,0,0,1,Common Cold,0
+0,1,1,1,0,1,0,1,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,1,1,0,0,0,1,1,Common Cold,0
+0,0,0,0,1,0,0,2,Common Cold,0
+1,0,0,0,1,0,1,1,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+1,0,0,0,0,1,0,0,Malaria,1
+0,0,0,1,1,0,0,0,COVID-19,2
+0,0,0,0,0,0,0,0,Common Cold,0
+0,1,0,0,0,1,0,0,Common Cold,0
+0,1,1,0,1,1,1,1,Common Cold,0
+0,0,1,0,0,0,1,2,Common Cold,0
+0,1,0,1,0,0,1,0,COVID-19,2
+1,0,0,0,0,0,0,0,Common Cold,0
+0,1,1,0,1,0,0,2,Common Cold,0
+1,0,1,0,1,0,0,1,Common Cold,0
+0,0,1,0,0,0,0,1,Common Cold,0
+0,0,0,0,1,1,0,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+1,0,0,1,1,0,0,0,Pneumonia,2
+0,0,0,0,0,1,0,0,Common Cold,0
+0,0,1,0,0,1,0,2,Common Cold,0
+0,0,0,0,1,1,0,0,Common Cold,0
+1,1,0,0,0,1,0,0,Malaria,1
+1,0,0,0,0,0,0,0,Common Cold,0
+0,1,1,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+1,1,0,0,0,0,0,2,Flu,1
+0,1,0,0,1,0,0,0,Common Cold,0
+0,1,0,1,1,1,0,1,COVID-19,2
+1,0,0,0,0,0,0,1,Common Cold,0
+1,0,1,0,1,0,1,0,Common Cold,0
+1,0,1,1,0,0,1,0,Pneumonia,2
+1,0,0,1,0,1,0,1,Pneumonia,2
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+1,0,1,0,0,1,0,1,Malaria,1
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,1,0,1,0,0,1,Common Cold,0
+0,0,0,0,1,0,0,2,Common Cold,0
+0,0,0,1,1,0,0,2,COVID-19,2
+0,0,0,0,0,0,0,0,Common Cold,0
+1,0,0,0,0,0,0,2,Common Cold,0
+1,0,0,0,1,1,0,0,Malaria,1
+1,0,0,0,0,1,1,1,Malaria,1
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,1,0,0,1,2,COVID-19,2
+0,1,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,1,1,2,Common Cold,0
+0,1,0,0,0,0,0,1,Common Cold,0
+1,0,0,1,0,0,0,1,Pneumonia,2
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,0,1,2,Common Cold,0
+0,1,0,0,0,0,1,1,Common Cold,0
+0,1,0,0,0,1,1,1,Common Cold,0
+0,0,1,0,0,1,0,0,Common Cold,0
+0,1,0,0,0,0,0,1,Common Cold,0
+1,0,0,0,0,1,0,1,Malaria,1
+0,0,0,0,1,1,0,2,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,1,0,0,0,0,1,1,Common Cold,0
+0,1,0,0,0,1,0,0,Common Cold,0
+0,0,0,0,0,1,1,1,Common Cold,0
+1,0,0,0,1,1,0,2,Malaria,1
+0,1,1,0,1,0,0,1,Common Cold,0
+0,1,0,0,1,1,0,2,Common Cold,0
+0,1,0,0,0,0,0,0,Common Cold,0
+0,1,0,0,0,0,1,2,Common Cold,0
+0,0,1,0,1,0,1,1,Common Cold,0
+0,1,0,0,0,0,0,0,Common Cold,0
+0,0,1,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,1,0,0,0,0,0,1,Common Cold,0
+1,0,1,0,0,0,0,1,Common Cold,0
+0,0,1,1,0,0,0,0,COVID-19,2
+0,0,0,0,1,0,1,0,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,1,0,2,Common Cold,0
+0,0,0,0,0,1,0,1,Common Cold,0
+0,1,0,0,0,1,1,0,Common Cold,0
+1,1,0,0,0,1,0,2,Malaria,1
+0,1,0,0,1,1,1,0,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,0,0,1,1,1,2,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,1,0,1,Common Cold,0
+1,0,0,0,0,1,1,1,Malaria,1
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,1,0,0,1,0,1,Common Cold,0
+0,0,0,0,0,1,0,0,Common Cold,0
+1,0,1,0,1,0,1,2,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,1,0,0,0,1,1,0,Common Cold,0
+0,1,0,0,0,0,1,2,Common Cold,0
+1,0,1,0,0,1,0,0,Malaria,1
+0,1,0,0,0,1,1,1,Common Cold,0
+0,0,1,0,1,0,1,2,Common Cold,0
+0,1,0,0,0,1,0,0,Common Cold,0
+0,0,0,0,1,0,0,0,Common Cold,0
+0,1,1,0,1,1,1,0,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+1,1,0,1,1,1,0,1,Pneumonia,2
+1,0,0,0,0,0,0,1,Common Cold,0
+1,1,0,1,0,0,1,2,Pneumonia,2
+1,0,1,0,1,1,0,0,Malaria,1
+1,0,0,1,0,1,0,0,Pneumonia,2
+1,0,0,1,0,0,0,2,Pneumonia,2
+1,1,0,1,0,0,0,2,Pneumonia,2
+1,0,0,1,0,1,0,1,Pneumonia,2
+0,0,1,0,1,0,0,0,Common Cold,0
+0,1,0,0,0,0,0,2,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+0,0,1,0,1,0,0,1,Common Cold,0
+0,1,0,0,0,1,0,2,Common Cold,0
+0,0,0,0,0,0,1,2,Common Cold,0
+1,0,0,0,1,1,0,0,Malaria,1
+0,0,0,0,1,0,0,2,Common Cold,0
+0,0,0,0,0,1,0,1,Common Cold,0
+0,0,1,1,0,1,0,2,COVID-19,2
+0,1,1,0,0,1,1,0,Common Cold,0
+1,0,0,0,0,1,0,2,Malaria,1
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,1,1,0,0,0,2,COVID-19,2
+0,0,0,0,0,1,0,1,Common Cold,0
+0,0,1,0,1,0,0,2,Common Cold,0
+0,1,0,1,0,0,1,2,COVID-19,2
+1,1,1,0,0,0,0,1,Flu,1
+0,0,0,0,0,0,1,2,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+1,1,0,0,0,0,1,0,Flu,1
+1,0,1,0,1,0,0,0,Common Cold,0
+0,1,1,1,0,1,0,1,COVID-19,2
+0,0,0,0,0,1,0,0,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,1,0,0,1,0,1,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+1,0,1,0,1,0,1,1,Common Cold,0
+0,0,0,1,0,0,1,1,COVID-19,2
+1,1,0,1,0,0,0,0,Pneumonia,2
+1,1,0,0,1,0,0,1,Flu,1
+1,0,1,1,0,0,1,1,Pneumonia,2
+1,1,0,1,1,1,0,0,Pneumonia,2
+0,0,0,1,0,0,0,2,COVID-19,2
+0,0,0,1,0,0,1,2,COVID-19,2
+1,0,0,1,0,1,0,1,Pneumonia,2
+0,0,0,0,1,0,0,2,Common Cold,0
+0,0,1,0,1,1,1,1,Common Cold,0
+0,0,0,1,0,0,1,1,COVID-19,2
+0,0,1,0,1,0,1,2,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+0,0,0,1,0,0,1,2,COVID-19,2
+1,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,0,0,1,1,2,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+0,0,0,0,1,1,0,1,Common Cold,0
+1,0,0,0,1,0,0,2,Common Cold,0
+0,0,1,0,0,0,0,1,Common Cold,0
+0,0,1,0,0,0,1,0,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,1,1,1,2,Common Cold,0
+0,1,0,0,0,0,1,0,Common Cold,0
+0,1,0,0,1,0,0,0,Common Cold,0
+0,1,0,0,0,0,1,1,Common Cold,0
+0,0,0,1,0,0,0,2,COVID-19,2
+0,1,0,1,0,0,0,0,COVID-19,2
+1,1,0,0,0,1,0,0,Malaria,1
+0,0,0,0,0,1,0,0,Common Cold,0
+0,1,0,0,0,0,0,2,Common Cold,0
+1,0,0,1,0,1,0,2,Pneumonia,2
+1,1,0,0,1,0,0,2,Flu,1
+1,1,0,1,1,0,0,0,Pneumonia,2
+0,1,0,1,1,0,1,1,COVID-19,2
+1,0,1,0,0,1,0,1,Malaria,1
+0,1,0,0,0,0,0,1,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+1,0,0,0,0,0,0,1,Common Cold,0
+1,0,0,1,1,0,1,2,Pneumonia,2
+0,0,0,1,0,0,1,1,COVID-19,2
+0,0,0,1,0,1,0,0,COVID-19,2
+1,0,0,0,1,0,0,0,Common Cold,0
+0,1,0,0,0,0,1,1,Common Cold,0
+1,0,0,1,0,1,1,0,Pneumonia,2
+0,1,0,0,0,0,1,0,Common Cold,0
+0,0,0,0,1,0,1,2,Common Cold,0
+0,0,0,0,1,1,0,1,Common Cold,0
+1,1,0,0,0,1,0,1,Malaria,1
+0,0,0,1,0,0,0,0,COVID-19,2
+0,0,0,0,0,0,1,2,Common Cold,0
+0,0,1,0,1,1,0,0,Common Cold,0
+1,0,0,0,0,0,1,2,Common Cold,0
+0,0,0,0,0,1,1,1,Common Cold,0
+0,0,0,0,0,1,0,1,Common Cold,0
+1,0,0,0,0,1,0,2,Malaria,1
+0,0,1,0,0,0,0,0,Common Cold,0
+0,0,0,1,0,1,0,1,COVID-19,2
+1,0,1,0,0,0,0,2,Common Cold,0
+0,1,1,0,0,1,1,1,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,1,0,0,1,0,0,Common Cold,0
+0,0,0,1,0,1,0,2,COVID-19,2
+0,0,0,1,0,0,0,1,COVID-19,2
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,1,1,1,0,0,1,COVID-19,2
+0,0,1,1,1,0,0,1,COVID-19,2
+0,1,0,0,0,0,1,1,Common Cold,0
+1,0,0,1,0,1,0,1,Pneumonia,2
+0,1,0,1,0,0,0,1,COVID-19,2
+0,1,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+1,1,0,1,1,1,0,1,Pneumonia,2
+1,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,1,0,0,Common Cold,0
+0,1,0,0,0,0,1,2,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+1,0,1,1,0,1,0,1,Pneumonia,2
+0,1,0,0,1,0,0,2,Common Cold,0
+1,1,1,0,1,0,0,0,Flu,1
+0,1,1,0,0,0,1,2,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+0,1,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,0,1,2,Common Cold,0
+0,0,0,0,1,0,0,2,Common Cold,0
+1,0,0,0,0,1,1,2,Malaria,1
+0,1,0,0,0,0,1,1,Common Cold,0
+0,0,0,0,0,1,0,0,Common Cold,0
+0,1,0,0,0,0,0,2,Common Cold,0
+0,0,1,0,0,0,0,0,Common Cold,0
+0,1,1,0,0,0,1,1,Common Cold,0
+0,1,1,1,0,1,1,0,COVID-19,2
+0,0,1,0,0,0,1,0,Common Cold,0
+0,0,1,0,0,1,0,2,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,1,0,0,0,0,0,Common Cold,0
+1,0,1,0,0,1,0,2,Malaria,1
+0,1,0,0,0,0,0,0,Common Cold,0
+0,0,1,0,0,0,0,0,Common Cold,0
+0,1,1,0,0,0,0,1,Common Cold,0
+0,0,0,0,1,0,1,2,Common Cold,0
+0,0,0,1,1,0,0,2,COVID-19,2
+0,1,1,0,0,0,0,1,Common Cold,0
+1,1,1,0,1,1,0,0,Malaria,1
+0,1,0,1,0,1,0,1,COVID-19,2
+0,0,1,0,0,0,0,0,Common Cold,0
+0,1,0,1,1,0,0,1,COVID-19,2
+1,1,0,1,0,1,1,0,Pneumonia,2
+0,0,0,1,0,0,0,2,COVID-19,2
+0,0,0,1,1,0,0,0,COVID-19,2
+0,0,1,0,1,0,1,2,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+1,0,1,0,1,0,0,1,Common Cold,0
+0,0,0,0,1,0,0,2,Common Cold,0
+0,0,0,1,1,1,0,2,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+1,0,1,0,1,0,0,0,Common Cold,0
+0,1,0,0,1,0,0,1,Common Cold,0
+0,0,0,1,0,0,0,2,COVID-19,2
+1,0,1,0,0,0,0,0,Common Cold,0
+1,0,1,0,0,0,0,1,Common Cold,0
+0,0,0,1,0,0,0,2,COVID-19,2
+1,0,0,0,1,0,0,1,Common Cold,0
+0,1,0,0,0,1,1,1,Common Cold,0
+0,1,0,0,0,1,0,2,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+1,0,0,0,0,1,0,0,Malaria,1
+1,0,0,0,0,0,1,2,Common Cold,0
+0,1,0,1,0,1,1,0,COVID-19,2
+1,1,1,0,1,1,0,2,Malaria,1
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,0,1,0,1,0,1,COVID-19,2
+0,0,0,0,0,1,0,0,Common Cold,0
+0,0,1,0,0,1,0,0,Common Cold,0
+0,0,1,1,1,0,0,2,COVID-19,2
+0,0,0,0,0,1,1,0,Common Cold,0
+0,0,1,0,1,0,0,1,Common Cold,0
+1,0,0,0,1,1,0,2,Malaria,1
+0,0,0,0,1,1,0,1,Common Cold,0
+1,1,0,1,0,0,1,1,Pneumonia,2
+0,0,1,1,0,0,0,1,COVID-19,2
+0,1,0,0,0,0,1,1,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,1,0,0,0,0,1,0,Common Cold,0
+1,0,0,1,0,0,0,2,Pneumonia,2
+0,1,0,1,0,1,0,2,COVID-19,2
+0,0,0,0,0,1,1,1,Common Cold,0
+1,0,0,1,0,1,0,1,Pneumonia,2
+0,0,0,1,1,1,0,1,COVID-19,2
+0,0,0,1,0,0,0,0,COVID-19,2
+0,1,0,1,0,0,0,2,COVID-19,2
+1,0,0,0,0,1,0,1,Malaria,1
+0,0,0,0,1,1,0,2,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,1,0,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,1,1,0,0,0,0,1,Common Cold,0
+1,1,0,0,0,1,0,0,Malaria,1
+1,0,1,0,0,1,0,1,Malaria,1
+0,0,0,0,0,0,1,2,Common Cold,0
+0,0,0,0,1,1,0,1,Common Cold,0
+0,0,0,1,1,0,0,2,COVID-19,2
+0,0,0,1,0,0,1,2,COVID-19,2
+1,0,0,1,1,0,0,2,Pneumonia,2
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,1,0,0,1,0,2,Common Cold,0
+1,0,1,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+1,0,1,1,0,0,1,1,Pneumonia,2
+1,0,0,0,1,0,1,2,Common Cold,0
+0,0,1,0,1,0,0,2,Common Cold,0
+0,0,0,0,0,1,0,1,Common Cold,0
+0,0,0,1,1,0,0,0,COVID-19,2
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,1,0,0,0,2,COVID-19,2
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,1,0,1,0,1,COVID-19,2
+0,0,1,1,0,0,1,1,COVID-19,2
+0,0,0,0,0,0,0,0,Common Cold,0
+0,1,0,0,1,1,0,0,Common Cold,0
+1,1,1,1,0,0,0,0,Pneumonia,2
+0,0,0,1,0,0,0,1,COVID-19,2
+1,0,1,0,0,0,0,2,Common Cold,0
+0,1,0,1,0,1,0,1,COVID-19,2
+0,1,0,0,1,0,0,1,Common Cold,0
+0,1,1,0,1,0,0,0,Common Cold,0
+0,0,1,1,0,0,1,2,COVID-19,2
+1,0,1,0,0,0,0,1,Common Cold,0
+0,0,1,0,0,0,1,1,Common Cold,0
+0,0,1,1,0,0,1,0,COVID-19,2
+0,0,0,0,0,0,1,0,Common Cold,0
+1,0,0,0,1,1,0,2,Malaria,1
+0,1,1,1,0,0,0,0,COVID-19,2
+0,0,0,0,0,0,1,1,Common Cold,0
+0,1,0,0,0,0,1,0,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+0,1,1,1,1,0,0,2,COVID-19,2
+1,1,0,0,1,1,1,0,Malaria,1
+0,0,1,0,0,1,0,2,Common Cold,0
+0,1,0,1,1,0,0,0,COVID-19,2
+0,1,0,0,0,1,1,0,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,1,1,0,0,1,2,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,1,0,2,Common Cold,0
+1,0,0,0,1,1,1,0,Malaria,1
+0,0,0,0,0,1,0,1,Common Cold,0
+0,1,1,0,0,0,1,1,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+1,0,1,1,0,0,0,2,Pneumonia,2
+0,0,0,1,0,0,0,1,COVID-19,2
+1,0,1,0,0,0,0,0,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+1,1,0,1,0,0,1,2,Pneumonia,2
+0,1,0,1,0,0,0,1,COVID-19,2
+0,0,0,0,0,0,0,2,Common Cold,0
+1,1,0,1,0,0,0,2,Pneumonia,2
+0,0,0,1,0,0,0,1,COVID-19,2
+0,0,1,0,0,0,0,1,Common Cold,0
+0,0,1,0,0,1,0,2,Common Cold,0
+0,0,1,0,0,1,0,1,Common Cold,0
+0,1,1,0,0,1,0,0,Common Cold,0
+1,1,1,0,0,0,0,0,Flu,1
+1,0,1,0,0,0,0,0,Common Cold,0
+1,1,0,0,1,0,0,1,Flu,1
+1,0,0,1,0,0,0,2,Pneumonia,2
+0,1,0,0,1,0,0,1,Common Cold,0
+0,0,0,0,1,0,1,0,Common Cold,0
+0,0,0,0,1,1,1,0,Common Cold,0
+1,0,0,1,0,0,0,0,Pneumonia,2
+1,0,1,0,0,0,0,1,Common Cold,0
+1,1,1,1,1,0,1,1,Pneumonia,2
+0,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,0,0,1,1,1,Common Cold,0
+0,0,1,0,0,1,0,0,Common Cold,0
+0,1,1,1,0,0,1,2,COVID-19,2
+0,1,0,0,0,0,1,0,Common Cold,0
+0,1,1,0,0,0,0,2,Common Cold,0
+1,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,1,1,1,0,1,COVID-19,2
+0,0,1,0,0,1,1,0,Common Cold,0
+0,0,0,0,0,1,0,0,Common Cold,0
+0,0,1,0,0,0,1,0,Common Cold,0
+1,0,0,0,1,1,0,1,Malaria,1
+0,0,0,1,1,0,0,2,COVID-19,2
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,1,1,0,0,2,COVID-19,2
+0,0,0,0,0,1,0,1,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,1,0,0,1,1,0,0,Common Cold,0
+0,1,0,0,1,0,1,1,Common Cold,0
+0,0,1,0,0,0,1,2,Common Cold,0
+0,0,1,0,0,0,1,1,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+1,1,1,0,0,0,1,2,Flu,1
+1,0,0,0,0,0,1,0,Common Cold,0
+0,0,1,0,0,1,0,1,Common Cold,0
+0,0,1,1,0,0,0,0,COVID-19,2
+0,0,0,1,0,0,0,2,COVID-19,2
+0,0,0,1,0,1,1,2,COVID-19,2
+0,0,0,1,0,0,0,0,COVID-19,2
+0,0,0,1,0,0,0,1,COVID-19,2
+1,0,0,0,1,0,1,0,Common Cold,0
+0,0,1,0,1,0,0,0,Common Cold,0
+1,0,1,1,1,0,0,2,Pneumonia,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,1,0,0,0,0,0,1,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+1,0,0,1,0,0,1,1,Pneumonia,2
+0,0,0,0,1,0,1,2,Common Cold,0
+0,0,0,1,1,0,0,1,COVID-19,2
+1,0,0,1,0,0,0,0,Pneumonia,2
+0,1,0,0,0,0,0,2,Common Cold,0
+1,0,0,0,1,0,1,0,Common Cold,0
+1,1,1,0,0,0,1,0,Flu,1
+1,1,0,1,0,0,0,1,Pneumonia,2
+1,0,0,0,1,0,1,1,Common Cold,0
+0,0,0,1,0,1,0,1,COVID-19,2
+1,1,0,0,0,0,1,2,Flu,1
+0,1,0,0,0,0,0,1,Common Cold,0
+0,0,1,0,0,1,1,2,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+0,1,0,0,0,0,0,1,Common Cold,0
+0,1,1,1,1,0,0,1,COVID-19,2
+1,1,1,0,1,0,0,1,Flu,1
+0,0,0,0,0,1,0,1,Common Cold,0
+1,1,0,0,0,0,0,2,Flu,1
+0,1,1,1,0,1,0,1,COVID-19,2
+0,0,1,0,0,0,0,0,Common Cold,0
+1,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,1,0,0,1,1,COVID-19,2
+0,0,0,0,0,0,0,0,Common Cold,0
+1,1,1,0,0,0,0,2,Flu,1
+0,0,0,0,0,0,0,2,Common Cold,0
+0,1,1,0,1,0,1,1,Common Cold,0
+0,0,0,1,0,0,0,2,COVID-19,2
+0,0,0,1,0,0,0,2,COVID-19,2
+0,0,0,1,1,0,0,0,COVID-19,2
+0,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,0,1,1,0,0,Common Cold,0
+0,0,0,1,1,1,0,2,COVID-19,2
+1,0,0,1,0,0,0,1,Pneumonia,2
+0,1,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+1,0,0,0,0,1,0,0,Malaria,1
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,1,0,1,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+0,0,0,0,0,1,0,0,Common Cold,0
+0,0,0,0,0,0,1,2,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,1,0,0,0,1,0,Common Cold,0
+1,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,1,0,0,0,0,1,0,Common Cold,0
+0,1,0,0,0,1,0,0,Common Cold,0
+0,1,0,0,0,1,1,2,Common Cold,0
+0,0,0,1,0,0,1,0,COVID-19,2
+0,0,0,1,0,0,0,1,COVID-19,2
+0,0,0,0,0,0,1,2,Common Cold,0
+1,0,0,0,0,0,0,2,Common Cold,0
+0,0,1,0,1,1,1,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+1,0,0,1,0,1,1,0,Pneumonia,2
+1,0,0,0,0,1,0,0,Malaria,1
+0,1,1,1,0,0,0,0,COVID-19,2
+0,0,0,1,0,0,0,2,COVID-19,2
+1,1,0,1,0,0,1,0,Pneumonia,2
+0,0,0,1,0,0,0,1,COVID-19,2
+0,0,0,0,1,0,0,1,Common Cold,0
+0,1,1,0,1,0,0,1,Common Cold,0
+0,0,1,0,1,1,0,1,Common Cold,0
+0,1,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,1,1,2,Common Cold,0
+1,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,0,1,0,1,1,Common Cold,0
+1,0,0,0,1,1,0,0,Malaria,1
+1,0,0,0,0,1,1,1,Malaria,1
+0,1,0,1,0,0,1,1,COVID-19,2
+0,0,0,0,1,1,0,1,Common Cold,0
+0,0,0,1,0,1,0,1,COVID-19,2
+0,0,0,1,0,1,0,2,COVID-19,2
+0,1,0,1,1,0,0,1,COVID-19,2
+1,0,0,0,0,1,0,1,Malaria,1
+1,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+0,0,0,1,0,1,1,0,COVID-19,2
+0,0,0,1,0,0,0,1,COVID-19,2
+0,1,0,1,0,0,0,0,COVID-19,2
+0,1,1,0,0,0,1,0,Common Cold,0
+1,0,0,1,0,0,0,0,Pneumonia,2
+0,0,1,0,1,0,0,0,Common Cold,0
+0,0,1,0,0,0,1,2,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,1,1,0,0,0,0,2,Common Cold,0
+0,1,1,0,0,0,0,1,Common Cold,0
+0,1,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,1,0,1,1,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,1,0,0,0,0,1,0,Common Cold,0
+1,1,0,0,0,0,0,0,Flu,1
+0,0,0,1,0,1,0,1,COVID-19,2
+0,0,0,0,1,0,0,2,Common Cold,0
+1,0,0,1,0,0,0,2,Pneumonia,2
+0,1,0,1,0,0,1,1,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,1,0,0,1,0,1,2,Common Cold,0
+1,0,1,1,0,0,0,0,Pneumonia,2
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,0,1,1,0,1,0,COVID-19,2
+0,0,1,0,0,1,0,0,Common Cold,0
+1,0,0,0,0,0,0,0,Common Cold,0
+0,1,1,0,0,1,0,0,Common Cold,0
+1,1,1,1,0,0,0,0,Pneumonia,2
+0,1,1,0,1,1,0,0,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+1,0,0,1,0,0,1,0,Pneumonia,2
+0,0,1,0,0,0,0,2,Common Cold,0
+0,0,0,1,0,1,1,1,COVID-19,2
+0,0,1,0,0,1,0,1,Common Cold,0
+0,0,1,0,0,1,0,2,Common Cold,0
+1,0,0,1,0,0,1,0,Pneumonia,2
+1,0,0,0,1,0,1,1,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+1,0,1,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,1,2,Common Cold,0
+0,1,1,0,0,1,0,2,Common Cold,0
+0,0,0,0,1,1,0,0,Common Cold,0
+1,0,0,0,1,1,0,1,Malaria,1
+1,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+1,0,1,0,1,0,0,0,Common Cold,0
+0,1,0,0,0,1,0,1,Common Cold,0
+1,0,0,1,0,0,0,2,Pneumonia,2
+0,1,1,0,1,0,0,2,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,1,1,0,0,0,0,COVID-19,2
+0,1,0,0,0,0,0,2,Common Cold,0
+0,0,0,1,0,0,1,1,COVID-19,2
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,1,0,0,0,0,0,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+0,0,0,1,1,0,0,2,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+1,0,0,0,1,1,0,0,Malaria,1
+1,0,0,0,0,0,0,1,Common Cold,0
+1,1,1,1,0,0,0,2,Pneumonia,2
+0,1,0,1,0,0,1,0,COVID-19,2
+1,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+0,1,1,0,0,1,0,0,Common Cold,0
+0,0,1,0,0,0,1,2,Common Cold,0
+0,0,0,1,1,0,1,0,COVID-19,2
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,1,1,1,1,Common Cold,0
+0,0,0,0,0,1,0,2,Common Cold,0
+1,0,1,0,1,0,1,1,Common Cold,0
+1,0,0,1,1,0,0,1,Pneumonia,2
+1,1,1,0,0,0,1,0,Flu,1
+1,0,0,0,0,0,0,0,Common Cold,0
+1,0,0,0,0,1,0,2,Malaria,1
+0,0,0,0,0,1,0,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,1,0,0,0,0,0,Common Cold,0
+1,1,1,1,0,0,1,2,Pneumonia,2
+0,1,0,0,0,0,0,0,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+1,0,1,0,0,0,0,0,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+0,1,1,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,1,0,0,0,0,1,0,Common Cold,0
+0,0,1,0,1,1,0,2,Common Cold,0
+1,0,0,0,0,0,0,0,Common Cold,0
+0,0,1,1,0,0,0,2,COVID-19,2
+0,0,1,1,1,1,0,1,COVID-19,2
+0,0,1,0,0,1,0,2,Common Cold,0
+1,0,0,0,0,0,0,2,Common Cold,0
+0,1,0,0,1,0,0,1,Common Cold,0
+1,0,0,0,1,1,0,2,Malaria,1
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,1,0,0,1,0,1,Common Cold,0
+0,1,0,1,0,0,1,1,COVID-19,2
+0,0,1,0,0,0,1,0,Common Cold,0
+0,0,0,0,0,0,1,2,Common Cold,0
+0,1,0,1,0,0,1,2,COVID-19,2
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,0,0,0,1,1,0,Common Cold,0
+0,0,1,1,0,0,1,0,COVID-19,2
+0,1,1,0,0,0,0,1,Common Cold,0
+0,1,1,0,0,0,0,0,Common Cold,0
+0,1,0,1,1,0,0,2,COVID-19,2
+1,0,0,0,1,0,0,2,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+0,0,0,1,1,0,0,1,COVID-19,2
+1,0,0,0,0,0,0,0,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+0,0,1,0,0,1,1,0,Common Cold,0
+0,0,0,0,0,1,0,0,Common Cold,0
+0,1,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+1,0,0,0,1,1,0,0,Malaria,1
+0,0,1,0,0,1,1,0,Common Cold,0
+0,0,1,1,0,0,1,1,COVID-19,2
+0,1,0,0,1,1,0,0,Common Cold,0
+0,0,0,1,0,0,0,2,COVID-19,2
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,1,1,0,0,0,1,COVID-19,2
+0,0,0,1,0,1,1,0,COVID-19,2
+0,0,0,0,0,0,1,0,Common Cold,0
+1,0,1,0,0,1,0,1,Malaria,1
+0,0,0,1,0,0,1,0,COVID-19,2
+0,1,0,0,0,0,0,1,Common Cold,0
+1,0,0,1,0,1,0,2,Pneumonia,2
+0,0,0,0,1,0,0,2,Common Cold,0
+0,0,0,0,0,1,0,0,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+1,0,1,0,0,0,1,0,Common Cold,0
+0,1,0,1,0,1,1,1,COVID-19,2
+0,0,1,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,1,1,1,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,1,0,0,0,0,0,Common Cold,0
+0,0,0,0,1,0,1,1,Common Cold,0
+0,0,0,1,1,0,0,0,COVID-19,2
+0,0,0,1,0,1,1,2,COVID-19,2
+0,0,0,0,0,1,1,2,Common Cold,0
+1,0,0,0,0,1,0,1,Malaria,1
+0,0,0,1,0,0,0,0,COVID-19,2
+0,1,0,0,0,0,0,1,Common Cold,0
+0,1,0,0,0,0,1,2,Common Cold,0
+0,1,1,1,0,0,0,2,COVID-19,2
+0,0,0,0,0,1,0,2,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,1,0,0,1,0,0,1,Common Cold,0
+0,0,0,1,1,0,0,0,COVID-19,2
+0,0,0,0,0,1,0,2,Common Cold,0
+1,0,1,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,1,0,0,0,1,0,1,Common Cold,0
+0,0,0,0,1,0,0,2,Common Cold,0
+0,1,0,1,0,1,1,0,COVID-19,2
+0,0,1,0,0,0,0,1,Common Cold,0
+1,0,1,0,0,0,0,2,Common Cold,0
+1,0,0,0,1,1,1,1,Malaria,1
+0,0,0,0,0,0,1,2,Common Cold,0
+0,0,0,1,1,1,1,0,COVID-19,2
+0,0,0,1,0,0,0,2,COVID-19,2
+0,0,0,0,0,1,0,2,Common Cold,0
+0,0,1,0,0,1,0,2,Common Cold,0
+0,0,0,1,0,1,1,1,COVID-19,2
+0,0,0,0,0,1,1,2,Common Cold,0
+1,0,0,1,0,1,0,1,Pneumonia,2
+1,1,0,1,0,0,1,1,Pneumonia,2
+0,0,0,0,0,0,1,1,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+1,0,1,0,1,1,1,0,Malaria,1
+0,0,0,1,0,0,0,0,COVID-19,2
+0,1,0,0,0,0,0,1,Common Cold,0
+1,1,1,0,1,1,1,0,Malaria,1
+1,1,1,0,1,1,0,1,Malaria,1
+1,0,0,0,1,0,0,1,Common Cold,0
+1,0,1,1,0,0,0,1,Pneumonia,2
+0,1,1,0,0,0,0,0,Common Cold,0
+1,1,0,1,0,1,0,0,Pneumonia,2
+1,0,1,0,0,0,0,1,Common Cold,0
+0,0,0,1,0,1,0,1,COVID-19,2
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,1,0,0,0,0,1,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,1,0,0,0,0,0,Common Cold,0
+0,1,1,0,1,1,0,2,Common Cold,0
+0,0,0,0,0,0,1,2,Common Cold,0
+1,1,1,0,0,0,1,1,Flu,1
+1,0,0,1,0,0,0,1,Pneumonia,2
+1,0,0,0,1,0,0,2,Common Cold,0
+0,1,0,0,0,1,1,0,Common Cold,0
+0,1,0,1,0,1,0,0,COVID-19,2
+0,1,0,0,0,0,1,2,Common Cold,0
+0,1,1,1,0,1,0,1,COVID-19,2
+1,0,0,1,1,0,1,1,Pneumonia,2
+0,1,0,0,0,0,0,2,Common Cold,0
+1,0,1,0,0,1,0,0,Malaria,1
+0,0,1,0,0,0,0,1,Common Cold,0
+0,1,1,0,0,0,1,2,Common Cold,0
+0,1,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,1,0,0,0,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+1,1,0,1,0,1,1,0,Pneumonia,2
+1,0,0,0,1,0,0,2,Common Cold,0
+0,0,0,0,0,0,1,2,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+0,1,0,0,0,0,1,1,Common Cold,0
+1,1,1,1,0,0,0,1,Pneumonia,2
+1,0,1,1,1,1,0,0,Pneumonia,2
+0,0,0,1,1,0,0,0,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,1,0,0,1,0,2,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,1,0,1,Common Cold,0
+0,0,1,0,0,0,1,0,Common Cold,0
+1,1,0,1,0,1,0,1,Pneumonia,2
+0,1,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,1,0,2,Common Cold,0
+1,0,0,1,0,0,0,1,Pneumonia,2
+1,0,0,0,0,0,0,2,Common Cold,0
+0,1,0,0,0,0,0,1,Common Cold,0
+1,1,0,0,0,0,0,0,Flu,1
+1,1,0,0,0,1,0,0,Malaria,1
+1,0,0,0,0,0,0,1,Common Cold,0
+0,1,0,0,0,1,1,1,Common Cold,0
+0,1,0,0,1,0,1,2,Common Cold,0
+0,1,1,0,0,0,0,2,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+0,0,0,0,1,0,0,0,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+1,0,0,1,0,0,0,0,Pneumonia,2
+0,1,0,0,1,1,0,1,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+0,1,1,0,0,1,0,1,Common Cold,0
+0,1,0,1,1,0,1,2,COVID-19,2
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+1,0,1,1,0,1,1,0,Pneumonia,2
+0,0,0,1,0,1,1,1,COVID-19,2
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,1,0,0,1,0,0,Common Cold,0
+0,1,0,0,0,1,0,1,Common Cold,0
+1,0,1,1,1,0,0,2,Pneumonia,2
+1,0,1,0,0,0,1,1,Common Cold,0
+0,1,0,0,0,0,0,2,Common Cold,0
+0,1,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,1,0,0,2,Common Cold,0
+1,0,0,0,0,1,1,1,Malaria,1
+1,0,0,1,0,1,1,1,Pneumonia,2
+0,0,0,0,0,1,0,0,Common Cold,0
+0,1,0,0,1,0,0,2,Common Cold,0
+0,1,0,0,1,0,1,2,Common Cold,0
+1,1,0,1,0,0,1,1,Pneumonia,2
+0,0,0,1,0,0,1,1,COVID-19,2
+0,0,0,0,1,0,1,2,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,1,0,0,1,2,COVID-19,2
+0,0,1,0,1,1,1,0,Common Cold,0
+1,0,1,0,0,0,0,1,Common Cold,0
+1,0,1,0,0,0,0,2,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+0,1,0,0,0,0,0,2,Common Cold,0
+1,1,1,0,0,0,0,0,Flu,1
+0,0,1,1,1,0,0,1,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,1,1,0,0,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+1,0,0,1,1,0,0,0,Pneumonia,2
+0,1,1,0,0,0,0,2,Common Cold,0
+1,0,0,0,0,1,0,1,Malaria,1
+0,1,0,1,1,1,0,0,COVID-19,2
+0,0,0,0,0,1,0,1,Common Cold,0
+1,1,1,1,1,0,0,0,Pneumonia,2
+0,0,0,0,0,0,1,0,Common Cold,0
+1,0,1,1,0,0,0,2,Pneumonia,2
+1,1,0,0,1,0,0,0,Flu,1
+1,0,0,0,1,0,0,0,Common Cold,0
+1,1,1,0,1,0,0,1,Flu,1
+0,1,0,0,0,0,0,0,Common Cold,0
+0,0,0,1,0,1,1,2,COVID-19,2
+0,0,1,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+1,0,0,0,0,1,1,1,Malaria,1
+0,1,0,0,1,0,1,1,Common Cold,0
+1,0,0,0,0,0,0,0,Common Cold,0
+1,0,0,0,0,0,0,2,Common Cold,0
+0,0,1,1,0,1,0,2,COVID-19,2
+0,0,1,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,1,1,0,1,0,1,0,Common Cold,0
+0,0,1,0,0,0,1,2,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+1,0,0,1,0,0,0,1,Pneumonia,2
+0,0,1,1,0,0,0,1,COVID-19,2
+0,1,0,1,1,1,0,0,COVID-19,2
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,1,0,0,0,1,2,Common Cold,0
+0,0,0,0,0,1,1,0,Common Cold,0
+0,0,1,1,0,0,0,1,COVID-19,2
+1,0,1,0,1,0,1,0,Common Cold,0
+0,0,0,0,0,1,0,2,Common Cold,0
+1,0,0,0,0,0,1,0,Common Cold,0
+0,0,1,0,0,0,0,2,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+1,0,1,0,0,1,0,1,Malaria,1
+0,0,1,1,0,0,0,0,COVID-19,2
+0,0,0,0,0,0,0,2,Common Cold,0
+1,0,0,1,1,1,0,2,Pneumonia,2
+0,1,1,0,1,0,1,0,Common Cold,0
+1,0,1,0,0,0,1,0,Common Cold,0
+0,0,1,0,0,0,0,0,Common Cold,0
+0,1,1,0,0,0,0,2,Common Cold,0
+0,0,0,1,0,0,0,2,COVID-19,2
+1,0,0,1,0,0,0,1,Pneumonia,2
+0,1,0,0,1,0,0,1,Common Cold,0
+1,1,1,1,0,0,1,1,Pneumonia,2
+0,0,0,1,0,0,1,1,COVID-19,2
+0,0,1,1,1,1,0,2,COVID-19,2
+1,0,0,1,1,1,1,1,Pneumonia,2
+0,0,0,1,0,0,0,1,COVID-19,2
+0,0,0,0,1,0,0,1,Common Cold,0
+0,0,1,1,0,0,1,2,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+1,1,0,1,0,1,0,0,Pneumonia,2
+0,0,1,0,0,0,0,1,Common Cold,0
+0,1,1,1,0,1,0,1,COVID-19,2
+0,1,1,1,1,1,1,1,COVID-19,2
+0,0,0,0,0,0,1,2,Common Cold,0
+0,0,0,0,1,0,0,2,Common Cold,0
+1,0,1,0,0,0,0,1,Common Cold,0
+0,0,1,0,0,1,0,2,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+1,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,0,0,0,1,2,Common Cold,0
+0,0,1,0,0,1,0,0,Common Cold,0
+1,0,1,1,1,0,0,1,Pneumonia,2
+0,0,0,0,0,0,1,2,Common Cold,0
+1,0,1,1,0,0,0,1,Pneumonia,2
+0,0,1,0,0,1,0,2,Common Cold,0
+0,1,0,0,0,1,1,1,Common Cold,0
+1,0,0,1,0,0,1,2,Pneumonia,2
+1,1,0,1,0,1,0,1,Pneumonia,2
+0,0,0,1,1,0,1,1,COVID-19,2
+0,0,1,1,0,0,0,1,COVID-19,2
+0,0,0,1,0,0,0,2,COVID-19,2
+1,1,0,1,0,0,0,1,Pneumonia,2
+1,1,0,0,0,0,0,2,Flu,1
+1,0,1,0,0,0,0,2,Common Cold,0
+0,0,0,1,0,1,1,0,COVID-19,2
+0,1,0,1,0,0,1,2,COVID-19,2
+1,0,1,1,1,0,0,2,Pneumonia,2
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,0,1,0,1,0,Common Cold,0
+0,0,0,1,1,0,0,0,COVID-19,2
+0,1,0,1,0,0,0,0,COVID-19,2
+1,0,1,0,1,0,1,2,Common Cold,0
+1,0,1,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+1,1,1,0,0,0,0,0,Flu,1
+0,0,0,1,0,0,0,1,COVID-19,2
+0,0,0,1,1,0,0,0,COVID-19,2
+1,0,0,0,0,1,0,1,Malaria,1
+0,0,1,1,0,0,0,1,COVID-19,2
+0,0,0,0,0,1,0,2,Common Cold,0
+0,0,1,0,1,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,1,1,0,1,0,1,2,Common Cold,0
+1,0,0,0,1,0,1,1,Common Cold,0
+1,0,0,0,0,0,1,0,Common Cold,0
+0,1,0,1,1,0,0,1,COVID-19,2
+1,0,0,1,0,1,1,1,Pneumonia,2
+1,1,0,0,0,0,1,0,Flu,1
+0,0,0,1,1,0,0,0,COVID-19,2
+0,0,0,1,0,1,0,1,COVID-19,2
+1,0,1,0,0,1,0,2,Malaria,1
+1,0,0,0,0,1,0,1,Malaria,1
+1,0,1,0,1,0,0,1,Common Cold,0
+0,1,0,1,0,0,0,1,COVID-19,2
+0,0,1,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+1,0,1,0,1,0,0,0,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+0,1,1,0,0,0,0,0,Common Cold,0
+1,0,0,0,1,0,1,1,Common Cold,0
+0,1,1,0,0,1,0,0,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,1,0,1,0,2,COVID-19,2
+0,0,1,1,0,1,0,2,COVID-19,2
+0,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,1,0,0,1,1,COVID-19,2
+1,1,0,0,0,0,1,1,Flu,1
+0,0,0,0,1,0,0,1,Common Cold,0
+1,0,1,0,1,0,0,1,Common Cold,0
+0,0,0,0,0,1,0,2,Common Cold,0
+0,0,0,0,1,0,1,2,Common Cold,0
+0,1,0,1,1,0,1,1,COVID-19,2
+0,0,0,0,1,0,0,0,Common Cold,0
+0,1,1,1,0,0,1,2,COVID-19,2
+0,0,1,1,0,1,0,1,COVID-19,2
+0,0,0,0,0,1,1,1,Common Cold,0
+0,1,0,1,1,0,1,2,COVID-19,2
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+1,0,0,0,1,0,1,1,Common Cold,0
+0,0,1,1,0,0,0,1,COVID-19,2
+1,1,1,1,0,1,1,1,Pneumonia,2
+1,0,1,0,0,0,0,0,Common Cold,0
+0,0,0,1,1,0,1,1,COVID-19,2
+1,0,0,0,0,1,1,1,Malaria,1
+0,1,1,0,0,0,0,0,Common Cold,0
+0,1,0,1,1,1,0,2,COVID-19,2
+0,0,0,0,1,1,0,1,Common Cold,0
+0,0,1,0,1,0,0,1,Common Cold,0
+0,0,1,1,0,0,0,0,COVID-19,2
+0,0,1,1,1,0,1,1,COVID-19,2
+0,1,0,0,1,1,1,1,Common Cold,0
+0,1,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,1,0,0,2,Common Cold,0
+0,0,0,1,1,1,1,0,COVID-19,2
+0,0,0,1,0,0,1,0,COVID-19,2
+0,0,0,0,0,0,1,2,Common Cold,0
+0,0,1,1,0,0,1,1,COVID-19,2
+0,0,0,0,0,1,0,0,Common Cold,0
+0,1,0,0,0,1,0,1,Common Cold,0
+0,1,0,1,1,1,0,2,COVID-19,2
+0,0,1,0,0,0,0,1,Common Cold,0
+1,1,0,0,1,0,0,0,Flu,1
+0,0,0,0,0,0,1,2,Common Cold,0
+0,0,1,0,1,0,1,1,Common Cold,0
+0,1,0,0,0,1,0,0,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,1,0,1,0,0,1,Common Cold,0
+0,1,1,1,0,0,0,2,COVID-19,2
+0,0,0,0,1,0,0,0,Common Cold,0
+1,0,1,0,1,1,0,1,Malaria,1
+0,0,1,0,0,0,0,2,Common Cold,0
+0,1,1,0,0,1,0,0,Common Cold,0
+0,0,1,0,0,1,1,1,Common Cold,0
+1,0,1,0,0,1,0,2,Malaria,1
+0,1,1,0,1,0,1,1,Common Cold,0
+1,0,0,0,0,1,0,1,Malaria,1
+0,0,0,1,1,0,0,0,COVID-19,2
+0,0,1,0,1,0,0,1,Common Cold,0
+0,0,1,0,1,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+1,0,1,0,1,0,1,1,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+1,0,1,0,0,1,1,2,Malaria,1
+0,0,0,0,0,1,1,1,Common Cold,0
+0,1,0,0,0,0,1,0,Common Cold,0
+0,0,1,1,0,0,0,1,COVID-19,2
+0,0,0,0,0,1,0,0,Common Cold,0
+1,0,1,0,0,1,0,2,Malaria,1
+0,0,0,0,0,0,0,1,Common Cold,0
+1,0,1,0,0,1,0,1,Malaria,1
+0,0,0,1,0,1,0,1,COVID-19,2
+0,1,1,0,0,0,0,1,Common Cold,0
+1,0,1,0,0,0,1,2,Common Cold,0
+0,0,0,0,0,1,0,2,Common Cold,0
+0,0,1,0,1,0,0,2,Common Cold,0
+1,0,0,1,1,0,1,1,Pneumonia,2
+0,0,0,1,0,1,0,2,COVID-19,2
+1,0,0,0,1,1,0,2,Malaria,1
+0,0,1,0,1,0,0,1,Common Cold,0
+0,1,0,0,0,0,1,0,Common Cold,0
+0,1,0,1,0,0,1,2,COVID-19,2
+0,0,0,0,1,0,0,2,Common Cold,0
+0,0,1,1,0,0,0,1,COVID-19,2
+0,1,1,1,0,1,0,0,COVID-19,2
+0,0,1,0,0,1,0,2,Common Cold,0
+0,0,1,0,0,0,0,0,Common Cold,0
+0,0,1,0,0,0,1,2,Common Cold,0
+1,1,0,0,0,0,0,1,Flu,1
+1,1,0,1,0,0,0,1,Pneumonia,2
+0,1,0,0,0,0,1,1,Common Cold,0
+1,1,0,0,1,1,0,2,Malaria,1
+1,0,0,1,0,0,0,0,Pneumonia,2
+0,1,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,1,0,0,2,Common Cold,0
+0,0,0,0,1,1,0,1,Common Cold,0
+0,1,1,0,0,0,0,1,Common Cold,0
+0,0,1,1,0,0,1,0,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,1,0,0,0,0,0,2,Common Cold,0
+0,0,1,0,0,0,0,2,Common Cold,0
+0,0,1,0,0,0,0,2,Common Cold,0
+1,0,0,0,0,0,0,2,Common Cold,0
+1,0,0,0,1,1,1,1,Malaria,1
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,1,0,0,0,1,2,Common Cold,0
+0,1,1,0,0,0,1,0,Common Cold,0
+1,0,0,1,0,0,0,1,Pneumonia,2
+0,0,0,1,1,0,1,0,COVID-19,2
+0,0,1,1,0,0,0,1,COVID-19,2
+0,0,1,0,1,0,0,2,Common Cold,0
+1,0,0,1,0,0,0,2,Pneumonia,2
+1,1,0,0,0,1,0,0,Malaria,1
+0,0,1,0,1,0,1,2,Common Cold,0
+0,1,0,1,1,1,0,0,COVID-19,2
+0,0,1,1,1,0,1,2,COVID-19,2
+1,0,0,0,0,0,1,1,Common Cold,0
+0,0,1,1,1,0,0,2,COVID-19,2
+0,0,0,0,1,0,0,0,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,1,0,0,0,1,0,1,Common Cold,0
+1,1,1,0,0,0,1,1,Flu,1
+0,1,1,1,1,1,0,2,COVID-19,2
+1,0,0,1,0,1,0,0,Pneumonia,2
+0,0,0,0,0,0,0,0,Common Cold,0
+1,0,0,0,0,0,0,2,Common Cold,0
+1,1,0,0,0,1,1,0,Malaria,1
+0,0,1,1,0,1,0,2,COVID-19,2
+1,1,0,0,0,0,1,0,Flu,1
+0,1,0,0,0,0,0,2,Common Cold,0
+0,1,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,1,1,0,0,Common Cold,0
+1,0,1,0,1,0,1,1,Common Cold,0
+0,0,0,1,0,1,0,2,COVID-19,2
+0,1,1,0,1,1,0,1,Common Cold,0
+0,1,0,0,0,0,1,2,Common Cold,0
+0,0,1,0,0,0,0,1,Common Cold,0
+1,0,1,0,0,1,0,0,Malaria,1
+0,0,1,0,1,0,0,2,Common Cold,0
+1,0,0,0,0,1,1,1,Malaria,1
+1,0,0,0,1,1,0,1,Malaria,1
+1,0,0,1,1,0,0,1,Pneumonia,2
+0,1,0,1,0,0,0,2,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,1,0,0,Common Cold,0
+0,1,1,0,0,0,1,2,Common Cold,0
+0,1,1,0,0,0,0,2,Common Cold,0
+0,1,1,0,0,1,1,2,Common Cold,0
+0,0,0,1,0,1,0,2,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+1,0,0,1,0,1,0,0,Pneumonia,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,0,1,2,Common Cold,0
+0,0,0,1,0,1,0,1,COVID-19,2
+0,0,0,0,0,1,0,1,Common Cold,0
+0,1,1,0,0,0,0,0,Common Cold,0
+1,0,0,0,1,0,0,1,Common Cold,0
+0,1,0,1,0,0,1,1,COVID-19,2
+0,0,0,0,1,1,0,1,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+1,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,1,1,1,0,2,COVID-19,2
+0,0,1,1,0,0,0,0,COVID-19,2
+0,1,0,1,1,0,1,1,COVID-19,2
+0,0,0,1,1,0,1,0,COVID-19,2
+1,0,0,0,0,0,1,0,Common Cold,0
+1,1,0,0,1,0,0,1,Flu,1
+0,1,0,0,0,1,1,0,Common Cold,0
+0,0,0,0,1,0,0,2,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+1,0,0,1,0,1,0,1,Pneumonia,2
+0,0,0,0,0,0,0,2,Common Cold,0
+0,1,0,0,0,1,1,0,Common Cold,0
+1,0,0,1,1,1,0,0,Pneumonia,2
+0,0,1,0,0,0,0,1,Common Cold,0
+0,1,0,1,0,0,0,2,COVID-19,2
+0,0,0,0,1,1,0,1,Common Cold,0
+1,0,0,0,0,0,1,1,Common Cold,0
+0,1,0,0,0,0,1,2,Common Cold,0
+0,1,0,1,0,0,0,1,COVID-19,2
+0,0,1,0,1,0,0,2,Common Cold,0
+0,1,1,0,0,0,0,0,Common Cold,0
+1,0,0,0,1,0,0,0,Common Cold,0
+1,1,0,1,0,1,0,0,Pneumonia,2
+0,0,1,0,1,0,0,1,Common Cold,0
+0,1,0,0,0,0,1,0,Common Cold,0
+1,0,0,1,0,0,0,0,Pneumonia,2
+1,0,1,0,0,0,0,2,Common Cold,0
+0,0,1,1,0,1,0,0,COVID-19,2
+0,0,0,0,0,1,1,2,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+1,1,0,0,1,0,0,0,Flu,1
+0,1,1,0,0,0,0,2,Common Cold,0
+0,0,1,1,1,0,0,1,COVID-19,2
+0,1,0,1,0,1,0,2,COVID-19,2
+0,0,1,0,0,1,0,1,Common Cold,0
+0,1,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,1,0,0,0,0,1,0,Common Cold,0
+0,0,0,0,0,1,0,0,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+1,0,0,1,0,1,1,0,Pneumonia,2
+0,0,1,1,0,0,0,1,COVID-19,2
+0,0,0,0,1,1,1,2,Common Cold,0
+0,0,0,1,1,1,1,1,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,1,0,0,2,Common Cold,0
+1,1,0,0,0,0,1,1,Flu,1
+0,0,0,0,1,1,1,0,Common Cold,0
+0,0,0,1,0,1,0,0,COVID-19,2
+0,0,1,0,1,1,0,2,Common Cold,0
+0,0,1,1,0,0,0,0,COVID-19,2
+0,1,0,0,0,0,0,0,Common Cold,0
+1,0,0,1,0,0,0,1,Pneumonia,2
+0,0,1,1,0,0,0,0,COVID-19,2
+0,0,0,1,0,1,1,0,COVID-19,2
+1,1,0,0,0,1,0,0,Malaria,1
+0,0,0,1,0,1,1,1,COVID-19,2
+0,1,1,0,0,0,1,2,Common Cold,0
+0,1,0,1,0,0,0,0,COVID-19,2
+0,0,0,0,0,1,1,0,Common Cold,0
+0,0,1,1,0,1,1,2,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,1,1,0,0,0,0,COVID-19,2
+1,0,0,1,0,0,0,0,Pneumonia,2
+0,0,0,1,0,1,0,1,COVID-19,2
+0,0,0,0,1,0,0,2,Common Cold,0
+0,0,1,0,0,0,0,1,Common Cold,0
+0,1,1,0,0,1,0,0,Common Cold,0
+0,1,0,1,0,0,0,0,COVID-19,2
+1,1,0,1,1,0,0,1,Pneumonia,2
+0,0,0,0,1,1,0,1,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+1,1,0,0,0,0,0,1,Flu,1
+1,0,1,0,0,0,0,0,Common Cold,0
+0,0,0,0,1,0,0,0,Common Cold,0
+1,0,0,0,0,0,1,2,Common Cold,0
+0,0,0,0,1,0,0,0,Common Cold,0
+1,0,0,0,0,1,0,1,Malaria,1
+0,1,0,0,0,0,1,2,Common Cold,0
+0,0,1,0,0,0,0,0,Common Cold,0
+1,1,0,0,0,0,0,1,Flu,1
+1,1,0,0,0,1,0,0,Malaria,1
+0,1,1,0,1,0,0,2,Common Cold,0
+1,0,0,1,1,1,0,2,Pneumonia,2
+1,0,1,0,0,0,0,1,Common Cold,0
+1,0,0,1,0,0,0,1,Pneumonia,2
+0,1,0,1,0,0,0,2,COVID-19,2
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,1,0,0,2,Common Cold,0
+0,0,0,1,1,1,0,2,COVID-19,2
+0,0,1,0,0,0,0,2,Common Cold,0
+0,0,0,1,1,0,1,2,COVID-19,2
+0,0,0,1,0,0,0,2,COVID-19,2
+0,1,1,0,0,0,1,1,Common Cold,0
+0,0,0,1,0,1,0,0,COVID-19,2
+1,0,1,0,0,0,1,2,Common Cold,0
+0,0,0,0,1,0,1,1,Common Cold,0
+1,0,0,1,0,1,1,1,Pneumonia,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,1,1,0,0,0,1,COVID-19,2
+1,0,1,0,1,0,0,1,Common Cold,0
+0,0,1,0,1,0,0,2,Common Cold,0
+0,0,0,0,1,0,0,2,Common Cold,0
+0,0,1,0,1,0,1,2,Common Cold,0
+0,0,0,1,0,0,0,2,COVID-19,2
+0,0,0,0,0,0,1,2,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+1,0,0,1,1,0,0,1,Pneumonia,2
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+1,0,0,0,0,0,0,2,Common Cold,0
+1,0,1,0,1,0,0,0,Common Cold,0
+0,1,1,0,1,1,0,0,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,1,0,2,Common Cold,0
+1,0,0,0,0,0,0,0,Common Cold,0
+0,1,0,1,1,1,1,1,COVID-19,2
+0,0,0,1,1,0,0,0,COVID-19,2
+0,0,0,1,0,1,0,2,COVID-19,2
+0,1,0,0,0,1,0,1,Common Cold,0
+0,0,1,0,0,1,1,2,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+1,0,0,1,0,0,1,2,Pneumonia,2
+0,0,0,1,1,0,0,0,COVID-19,2
+0,0,1,0,0,0,0,0,Common Cold,0
+0,0,0,0,1,0,0,2,Common Cold,0
+0,1,0,1,1,1,0,1,COVID-19,2
+0,0,1,0,0,0,0,2,Common Cold,0
+1,0,0,0,0,1,1,1,Malaria,1
+0,0,0,0,0,0,0,0,Common Cold,0
+1,1,0,0,0,0,0,2,Flu,1
+0,0,0,1,1,0,0,1,COVID-19,2
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,1,0,0,0,1,0,2,Common Cold,0
+1,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+1,0,0,1,0,1,1,0,Pneumonia,2
+0,0,0,0,0,0,0,2,Common Cold,0
+1,0,1,0,0,0,0,1,Common Cold,0
+1,1,0,1,0,0,1,1,Pneumonia,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,1,0,0,0,0,0,0,Common Cold,0
+1,0,0,0,0,0,0,2,Common Cold,0
+0,1,0,0,0,0,1,1,Common Cold,0
+0,1,1,1,1,0,1,1,COVID-19,2
+1,1,0,1,0,0,0,2,Pneumonia,2
+0,0,0,1,0,1,1,1,COVID-19,2
+0,1,1,1,0,1,0,1,COVID-19,2
+1,0,1,0,1,0,0,2,Common Cold,0
+0,0,1,0,1,0,0,2,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,1,1,0,1,Common Cold,0
+0,0,1,0,0,0,1,1,Common Cold,0
+1,0,0,1,0,0,0,0,Pneumonia,2
+0,1,0,1,0,0,0,2,COVID-19,2
+1,1,0,0,0,1,0,0,Malaria,1
+0,0,0,1,0,1,1,0,COVID-19,2
+0,0,1,0,0,0,0,0,Common Cold,0
+0,1,1,0,0,1,0,2,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+1,0,1,0,0,1,0,1,Malaria,1
+0,0,0,0,0,0,0,1,Common Cold,0
+1,1,0,0,1,0,0,2,Flu,1
+0,0,1,0,0,0,0,2,Common Cold,0
+0,0,1,0,0,0,0,1,Common Cold,0
+1,1,0,0,0,0,0,2,Flu,1
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,1,0,0,0,2,COVID-19,2
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,0,1,1,0,0,Common Cold,0
+0,0,0,1,1,0,0,1,COVID-19,2
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+0,1,0,0,1,1,0,0,Common Cold,0
+0,0,1,0,0,1,0,1,Common Cold,0
+1,1,1,0,1,0,0,2,Flu,1
+0,1,0,0,1,0,0,0,Common Cold,0
+1,0,0,0,1,1,1,1,Malaria,1
+0,0,0,0,1,1,0,0,Common Cold,0
+1,0,0,0,0,1,0,0,Malaria,1
+0,1,0,0,1,1,1,2,Common Cold,0
+0,0,0,0,1,1,1,0,Common Cold,0
+1,1,0,1,0,0,0,1,Pneumonia,2
+0,0,1,0,1,0,0,0,Common Cold,0
+0,0,0,0,0,1,0,1,Common Cold,0
+0,0,0,1,1,0,0,1,COVID-19,2
+1,0,0,1,1,1,1,2,Pneumonia,2
+0,0,1,0,1,0,0,0,Common Cold,0
+0,0,1,0,1,0,0,0,Common Cold,0
+0,1,1,1,1,0,1,2,COVID-19,2
+1,0,1,0,1,0,0,0,Common Cold,0
+0,0,1,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,1,0,0,1,1,0,2,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,1,0,0,2,Common Cold,0
+0,1,0,0,0,0,0,2,Common Cold,0
+1,0,1,0,0,0,1,1,Common Cold,0
+0,1,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,1,0,0,Common Cold,0
+0,0,1,1,0,1,0,1,COVID-19,2
+0,0,1,0,0,1,0,2,Common Cold,0
+0,0,1,0,1,0,1,0,Common Cold,0
+0,1,0,1,1,1,1,1,COVID-19,2
+0,0,0,0,0,0,0,0,Common Cold,0
+1,0,0,1,0,1,0,0,Pneumonia,2
+0,1,0,1,0,0,0,0,COVID-19,2
+0,1,0,0,0,1,1,2,Common Cold,0
+1,1,1,1,0,0,0,1,Pneumonia,2
+0,0,1,0,1,1,1,2,Common Cold,0
+1,0,0,0,1,1,1,0,Malaria,1
+0,0,0,0,0,1,0,0,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,1,0,1,0,0,2,Common Cold,0
+0,0,0,0,1,1,0,1,Common Cold,0
+0,1,1,1,0,1,0,0,COVID-19,2
+1,0,1,0,1,0,0,0,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+1,0,0,1,0,0,0,0,Pneumonia,2
+0,0,0,0,0,0,0,0,Common Cold,0
+1,0,0,0,0,0,0,2,Common Cold,0
+0,1,0,1,1,1,0,1,COVID-19,2
+1,1,1,0,1,0,0,0,Flu,1
+0,1,0,0,0,0,0,1,Common Cold,0
+0,1,1,0,0,0,1,0,Common Cold,0
+0,0,1,0,0,1,0,2,Common Cold,0
+0,1,0,1,0,1,0,1,COVID-19,2
+1,0,0,0,1,0,1,1,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,0,0,0,1,0,0,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,0,0,1,0,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,1,1,1,0,1,0,COVID-19,2
+0,0,1,0,0,0,0,2,Common Cold,0
+0,0,1,0,0,1,1,2,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+0,1,0,0,0,1,1,1,Common Cold,0
+0,1,1,1,1,0,0,2,COVID-19,2
+1,0,0,1,0,1,0,0,Pneumonia,2
+0,0,0,0,1,1,0,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,1,1,1,1,0,0,0,COVID-19,2
+1,1,1,0,1,0,0,2,Flu,1
+0,1,0,1,0,1,1,2,COVID-19,2
+0,1,0,0,0,1,0,2,Common Cold,0
+1,0,1,0,1,0,0,1,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+1,0,0,0,0,0,0,2,Common Cold,0
+1,0,1,0,0,0,1,2,Common Cold,0
+1,0,0,1,0,0,0,0,Pneumonia,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,1,1,0,0,1,0,COVID-19,2
+0,0,0,0,1,1,0,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,1,0,0,0,0,0,2,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,1,0,1,2,Common Cold,0
+1,1,0,1,0,0,1,2,Pneumonia,2
+1,1,1,1,1,0,1,2,Pneumonia,2
+1,0,0,0,1,0,0,0,Common Cold,0
+1,1,1,0,0,0,0,2,Flu,1
+0,0,0,0,1,0,1,0,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+1,0,0,1,0,0,0,1,Pneumonia,2
+1,0,1,0,1,0,0,0,Common Cold,0
+0,1,1,0,0,0,1,2,Common Cold,0
+0,1,1,0,1,0,0,1,Common Cold,0
+0,0,0,1,0,0,1,1,COVID-19,2
+0,1,1,0,0,1,0,1,Common Cold,0
+0,0,1,1,1,1,0,0,COVID-19,2
+1,0,0,1,0,0,1,2,Pneumonia,2
+0,1,0,0,1,1,0,0,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,1,1,0,0,1,1,COVID-19,2
+1,0,0,0,1,1,0,1,Malaria,1
+0,0,1,0,1,0,1,2,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+1,1,1,0,0,0,0,1,Flu,1
+1,0,0,1,0,0,1,0,Pneumonia,2
+0,0,1,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+1,1,0,0,0,0,0,0,Flu,1
+1,0,0,1,0,0,1,2,Pneumonia,2
+1,0,0,1,0,1,0,1,Pneumonia,2
+1,0,0,0,0,0,0,1,Common Cold,0
+1,0,1,0,0,0,1,2,Common Cold,0
+1,0,0,1,1,1,0,2,Pneumonia,2
+0,0,0,0,1,1,1,1,Common Cold,0
+0,1,0,1,0,0,0,2,COVID-19,2
+0,0,1,0,1,0,0,2,Common Cold,0
+0,0,0,0,0,0,1,2,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,1,1,0,1,0,1,1,Common Cold,0
+1,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,1,1,1,0,1,COVID-19,2
+0,0,0,0,0,0,0,2,Common Cold,0
+0,1,0,0,0,1,0,2,Common Cold,0
+0,0,1,0,1,0,0,2,Common Cold,0
+1,0,1,0,1,0,0,1,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+1,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,1,1,0,1,Common Cold,0
+0,0,0,0,1,1,0,1,Common Cold,0
+1,1,1,0,0,0,0,0,Flu,1
+0,1,1,0,1,0,1,1,Common Cold,0
+0,0,0,0,0,1,0,0,Common Cold,0
+0,0,0,1,0,0,1,0,COVID-19,2
+0,1,0,0,1,0,0,2,Common Cold,0
+0,0,1,1,0,0,1,2,COVID-19,2
+0,0,0,1,1,1,1,1,COVID-19,2
+0,1,1,0,0,1,0,1,Common Cold,0
+0,0,0,1,0,0,0,2,COVID-19,2
+1,1,1,0,0,0,0,2,Flu,1
+0,1,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,1,0,1,Common Cold,0
+1,0,1,0,0,1,0,1,Malaria,1
+0,0,0,0,1,1,0,2,Common Cold,0
+0,0,1,1,1,0,0,2,COVID-19,2
+0,0,0,1,0,0,0,1,COVID-19,2
+1,0,0,0,0,0,0,1,Common Cold,0
+0,1,1,0,0,1,0,0,Common Cold,0
+1,0,0,0,0,1,0,0,Malaria,1
+1,1,0,0,0,1,0,0,Malaria,1
+0,0,0,0,0,0,0,0,Common Cold,0
+1,1,0,0,0,0,0,1,Flu,1
+1,0,0,0,1,0,1,1,Common Cold,0
+1,1,1,0,0,0,1,1,Flu,1
+0,0,0,0,0,0,0,2,Common Cold,0
+1,1,0,1,0,0,0,1,Pneumonia,2
+0,1,0,0,0,0,0,0,Common Cold,0
+1,0,0,1,1,1,0,1,Pneumonia,2
+0,1,1,0,0,1,0,1,Common Cold,0
+0,0,1,0,0,0,0,1,Common Cold,0
+0,0,0,1,0,0,1,1,COVID-19,2
+1,0,1,1,0,1,1,1,Pneumonia,2
+0,0,1,0,0,0,0,0,Common Cold,0
+0,1,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,1,0,1,2,Common Cold,0
+0,1,0,0,0,1,0,2,Common Cold,0
+0,1,0,0,0,0,0,2,Common Cold,0
+0,1,0,1,0,0,1,1,COVID-19,2
+0,0,0,0,1,0,0,1,Common Cold,0
+0,0,1,1,0,1,0,2,COVID-19,2
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,1,1,0,Common Cold,0
+0,0,1,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+1,1,0,0,0,0,1,2,Flu,1
+1,0,0,1,0,1,0,1,Pneumonia,2
+0,0,0,0,0,0,0,1,Common Cold,0
+1,0,0,1,1,0,1,0,Pneumonia,2
+0,0,0,1,1,1,1,1,COVID-19,2
+0,1,1,1,1,0,1,2,COVID-19,2
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,1,0,0,1,0,1,2,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,0,0,1,1,0,1,Common Cold,0
+0,0,0,0,0,0,1,2,Common Cold,0
+0,0,1,0,1,0,0,1,Common Cold,0
+1,0,0,0,1,1,1,2,Malaria,1
+0,0,0,0,1,1,0,1,Common Cold,0
+1,0,0,0,0,0,0,0,Common Cold,0
+1,0,0,1,0,0,1,0,Pneumonia,2
+1,0,0,0,0,1,0,2,Malaria,1
+1,0,1,0,0,1,0,1,Malaria,1
+0,0,0,0,0,0,0,1,Common Cold,0
+0,1,0,0,0,0,0,2,Common Cold,0
+1,1,1,0,0,1,0,2,Malaria,1
+1,1,0,1,0,0,0,2,Pneumonia,2
+1,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,1,1,0,1,1,COVID-19,2
+0,0,0,1,0,0,1,1,COVID-19,2
+1,1,0,1,0,0,0,0,Pneumonia,2
+1,0,0,1,0,0,0,2,Pneumonia,2
+0,0,0,0,1,0,0,0,Common Cold,0
+1,1,0,0,0,0,0,1,Flu,1
+0,1,0,1,0,1,0,1,COVID-19,2
+1,0,0,0,1,0,1,1,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+1,1,1,0,1,0,0,2,Flu,1
+1,0,0,0,0,1,0,2,Malaria,1
+0,1,1,0,0,1,0,1,Common Cold,0
+0,0,1,0,1,0,1,0,Common Cold,0
+0,0,1,0,1,0,0,2,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+1,0,0,0,1,0,0,2,Common Cold,0
+0,1,0,0,1,0,1,0,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+1,0,0,0,0,1,0,0,Malaria,1
+1,0,1,0,1,1,0,2,Malaria,1
+0,0,0,0,1,0,1,0,Common Cold,0
+0,0,0,1,1,1,1,0,COVID-19,2
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,1,1,0,0,2,COVID-19,2
+0,1,1,0,0,0,0,2,Common Cold,0
+1,1,0,0,0,0,0,1,Flu,1
+0,1,0,1,0,0,1,2,COVID-19,2
+0,0,0,0,1,0,0,2,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+1,0,0,0,0,1,0,1,Malaria,1
+0,0,0,1,1,1,1,2,COVID-19,2
+0,0,1,0,0,0,0,1,Common Cold,0
+0,0,1,0,1,0,0,1,Common Cold,0
+0,0,1,1,1,0,0,1,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+1,0,0,0,0,1,1,0,Malaria,1
+0,1,0,1,0,0,1,1,COVID-19,2
+0,0,0,1,0,0,1,1,COVID-19,2
+0,1,1,0,0,1,1,2,Common Cold,0
+0,0,0,1,1,0,0,1,COVID-19,2
+1,0,0,0,0,0,1,2,Common Cold,0
+0,0,1,0,0,1,1,2,Common Cold,0
+0,0,0,0,1,0,1,0,Common Cold,0
+0,1,0,0,0,0,0,1,Common Cold,0
+0,1,0,0,0,0,0,1,Common Cold,0
+0,1,1,1,0,0,1,1,COVID-19,2
+1,0,0,1,1,1,1,0,Pneumonia,2
+0,1,0,0,0,0,0,1,Common Cold,0
+1,1,0,0,0,0,0,0,Flu,1
+0,0,0,0,0,0,0,2,Common Cold,0
+0,1,0,1,0,1,0,2,COVID-19,2
+0,0,1,0,1,0,0,2,Common Cold,0
+0,0,1,1,1,0,0,1,COVID-19,2
+0,1,0,0,0,1,1,1,Common Cold,0
+0,1,0,0,0,0,0,2,Common Cold,0
+0,0,1,1,0,0,0,0,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,1,1,1,Common Cold,0
+1,0,0,1,0,0,0,1,Pneumonia,2
+0,0,0,0,0,1,1,1,Common Cold,0
+0,1,0,0,0,1,0,0,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+1,0,0,0,0,1,0,1,Malaria,1
+1,1,0,0,0,1,1,1,Malaria,1
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,1,0,1,0,1,2,Common Cold,0
+0,1,0,0,0,0,1,2,Common Cold,0
+0,0,0,0,0,1,0,0,Common Cold,0
+1,0,0,0,0,1,0,0,Malaria,1
+0,0,1,1,1,0,0,0,COVID-19,2
+0,0,0,1,0,0,0,0,COVID-19,2
+0,0,0,0,1,0,0,1,Common Cold,0
+0,1,0,0,1,0,0,1,Common Cold,0
+0,1,0,0,0,0,0,0,Common Cold,0
+0,0,1,0,0,0,1,2,Common Cold,0
+1,0,1,0,0,0,1,2,Common Cold,0
+1,1,0,0,0,1,0,2,Malaria,1
+0,0,0,0,1,0,0,0,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+0,0,0,0,0,1,1,0,Common Cold,0
+0,0,0,1,1,0,0,0,COVID-19,2
+0,1,0,0,0,0,0,1,Common Cold,0
+0,1,1,0,1,0,1,2,Common Cold,0
+0,1,0,0,0,1,1,1,Common Cold,0
+0,0,1,0,1,0,0,1,Common Cold,0
+1,0,1,0,0,1,1,2,Malaria,1
+0,0,0,0,1,0,0,0,Common Cold,0
+0,0,0,0,0,1,0,1,Common Cold,0
+1,1,1,1,0,0,0,1,Pneumonia,2
+1,0,1,1,0,1,0,0,Pneumonia,2
+1,0,1,0,0,1,0,1,Malaria,1
+0,1,0,1,0,0,1,0,COVID-19,2
+0,1,1,0,0,1,1,2,Common Cold,0
+0,1,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+1,1,1,0,0,0,1,0,Flu,1
+0,0,0,1,1,1,0,2,COVID-19,2
+0,1,0,0,0,0,1,2,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+1,0,0,1,0,0,0,0,Pneumonia,2
+0,1,1,1,1,0,0,0,COVID-19,2
+1,0,0,0,0,0,1,1,Common Cold,0
+1,0,1,1,1,0,0,1,Pneumonia,2
+0,0,1,0,0,0,1,2,Common Cold,0
+0,0,1,0,0,1,1,1,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,1,0,2,Common Cold,0
+0,0,0,0,1,1,1,0,Common Cold,0
+0,0,0,0,1,1,0,0,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+1,0,1,0,1,0,0,2,Common Cold,0
+1,1,0,1,1,0,1,0,Pneumonia,2
+0,0,1,0,0,0,0,1,Common Cold,0
+0,1,1,1,1,0,0,1,COVID-19,2
+0,1,0,1,0,1,0,0,COVID-19,2
+1,0,1,0,0,1,0,2,Malaria,1
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+1,0,0,1,0,1,1,1,Pneumonia,2
+0,1,1,0,0,0,0,2,Common Cold,0
+1,0,1,0,0,0,0,1,Common Cold,0
+0,1,1,0,0,0,1,1,Common Cold,0
+0,0,0,0,1,1,0,1,Common Cold,0
+0,1,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,1,0,1,Common Cold,0
+1,1,1,1,1,0,0,0,Pneumonia,2
+1,1,0,0,1,1,0,2,Malaria,1
+0,0,0,0,0,1,1,2,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,1,0,1,0,0,0,2,COVID-19,2
+0,0,1,0,0,0,0,0,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+0,0,0,1,0,0,0,1,COVID-19,2
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,1,0,2,Common Cold,0
+0,1,0,0,1,1,0,0,Common Cold,0
+0,1,0,0,1,1,0,1,Common Cold,0
+1,0,1,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+1,0,0,0,0,1,0,1,Malaria,1
+0,0,0,0,0,1,1,2,Common Cold,0
+1,0,1,0,0,1,0,2,Malaria,1
+0,1,0,0,0,1,0,1,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+0,0,1,0,0,0,0,1,Common Cold,0
+0,1,0,0,0,0,1,1,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,1,0,1,0,1,COVID-19,2
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,1,0,0,1,1,0,Common Cold,0
+0,1,1,0,0,0,0,1,Common Cold,0
+0,1,1,0,0,0,0,1,Common Cold,0
+0,0,0,1,0,0,1,1,COVID-19,2
+0,0,1,0,0,0,0,1,Common Cold,0
+0,1,1,0,0,0,1,1,Common Cold,0
+0,1,1,0,1,1,0,1,Common Cold,0
+1,0,0,0,1,1,0,2,Malaria,1
+1,1,0,0,0,0,0,2,Flu,1
+0,1,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,1,0,1,0,0,0,2,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,1,0,1,0,2,COVID-19,2
+0,0,0,1,0,0,0,1,COVID-19,2
+0,0,0,0,1,0,0,2,Common Cold,0
+0,0,1,0,0,1,1,1,Common Cold,0
+0,0,0,0,0,1,1,1,Common Cold,0
+0,0,0,0,1,0,1,1,Common Cold,0
+0,0,0,1,1,0,0,1,COVID-19,2
+1,1,0,0,0,0,0,1,Flu,1
+1,0,0,1,0,0,0,1,Pneumonia,2
+0,0,1,0,1,0,1,1,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+1,0,1,1,0,0,1,1,Pneumonia,2
+0,1,1,1,0,0,0,1,COVID-19,2
+0,0,0,1,1,1,0,0,COVID-19,2
+1,0,0,0,0,0,1,2,Common Cold,0
+0,0,1,0,0,1,1,2,Common Cold,0
+0,0,1,0,1,0,1,1,Common Cold,0
+0,0,0,0,0,1,0,1,Common Cold,0
+0,1,0,0,1,0,0,0,Common Cold,0
+1,0,1,1,0,1,0,1,Pneumonia,2
+0,1,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,1,1,0,0,Common Cold,0
+1,1,0,0,0,0,0,2,Flu,1
+0,0,1,1,1,1,0,2,COVID-19,2
+1,0,0,0,1,0,0,0,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+0,0,0,0,0,0,0,0,Common Cold,0
+0,1,1,0,0,0,0,2,Common Cold,0
+1,1,1,1,0,0,1,1,Pneumonia,2
+0,0,1,0,0,1,1,2,Common Cold,0
+0,0,1,0,0,0,0,1,Common Cold,0
+0,0,1,0,0,0,0,2,Common Cold,0
+0,1,0,0,0,0,0,0,Common Cold,0
+0,1,1,0,0,0,1,1,Common Cold,0
+0,0,0,0,0,1,1,1,Common Cold,0
+0,0,1,1,0,0,0,1,COVID-19,2
+0,1,0,0,1,0,1,1,Common Cold,0
+1,0,0,0,0,0,1,2,Common Cold,0
+0,0,1,1,0,1,0,0,COVID-19,2
+0,1,0,0,0,0,0,1,Common Cold,0
+0,0,1,0,1,0,0,1,Common Cold,0
+0,0,1,1,0,0,1,0,COVID-19,2
+0,1,1,0,0,0,1,2,Common Cold,0
+0,1,1,0,1,0,0,0,Common Cold,0
+1,0,0,1,0,1,0,1,Pneumonia,2
+0,1,0,0,1,0,1,2,Common Cold,0
+0,0,0,0,1,1,0,1,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+1,0,1,0,1,1,0,1,Malaria,1
+1,1,1,1,0,0,0,2,Pneumonia,2
+0,0,1,1,0,0,0,0,COVID-19,2
+1,0,1,1,0,0,0,1,Pneumonia,2
+0,1,0,1,0,0,1,1,COVID-19,2
+0,0,0,1,0,0,0,2,COVID-19,2
+0,0,0,0,0,0,0,0,Common Cold,0
+0,1,1,0,0,0,1,0,Common Cold,0
+1,0,0,1,1,1,0,1,Pneumonia,2
+0,0,0,0,0,0,1,2,Common Cold,0
+0,0,0,1,0,1,1,0,COVID-19,2
+0,1,0,0,1,0,1,2,Common Cold,0
+1,0,0,0,1,1,0,1,Malaria,1
+0,1,1,1,1,1,1,1,COVID-19,2
+0,1,0,0,0,0,0,0,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+0,1,1,0,0,0,1,2,Common Cold,0
+0,0,1,1,0,1,0,1,COVID-19,2
+1,0,1,0,0,0,0,1,Common Cold,0
+1,0,1,0,1,0,0,0,Common Cold,0
+0,0,0,1,1,1,0,2,COVID-19,2
+1,0,0,0,0,0,0,2,Common Cold,0
+0,0,1,1,1,0,0,1,COVID-19,2
+0,0,0,1,0,0,0,2,COVID-19,2
+0,0,0,0,0,0,0,2,Common Cold,0
+0,1,0,0,0,0,0,1,Common Cold,0
+1,1,1,0,0,0,0,1,Flu,1
+0,1,0,0,0,0,1,1,Common Cold,0
+1,0,0,1,0,0,0,1,Pneumonia,2
+1,1,1,0,0,0,1,2,Flu,1
+0,0,0,0,0,0,0,2,Common Cold,0
+1,1,0,0,0,0,0,2,Flu,1
+0,1,1,1,1,0,1,1,COVID-19,2
+1,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,1,0,0,Common Cold,0
+0,0,0,1,0,0,0,0,COVID-19,2
+1,0,0,1,0,1,0,1,Pneumonia,2
+1,1,0,1,0,0,0,0,Pneumonia,2
+1,0,0,1,0,0,0,1,Pneumonia,2
+1,0,0,1,0,0,1,1,Pneumonia,2
+0,0,0,0,0,1,0,0,Common Cold,0
+1,0,1,0,0,1,0,2,Malaria,1
+0,0,0,0,1,0,1,0,Common Cold,0
+0,0,0,0,0,0,1,2,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,1,0,1,1,1,2,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,1,0,1,1,0,1,Common Cold,0
+0,1,0,0,1,0,1,2,Common Cold,0
+1,1,0,1,0,0,0,2,Pneumonia,2
+1,1,0,1,1,0,0,1,Pneumonia,2
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,1,0,0,2,Common Cold,0
+0,0,0,0,1,0,1,2,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,1,0,0,0,0,1,Common Cold,0
+0,0,1,0,0,0,0,1,Common Cold,0
+1,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,1,0,1,1,Common Cold,0
+0,0,0,0,0,1,0,0,Common Cold,0
+0,1,1,0,1,0,0,1,Common Cold,0
+1,1,1,0,1,0,0,1,Flu,1
+0,0,0,1,0,0,1,0,COVID-19,2
+0,0,0,0,0,1,0,1,Common Cold,0
+0,0,0,1,1,0,1,1,COVID-19,2
+0,0,0,1,0,0,1,2,COVID-19,2
+1,0,0,0,0,1,1,2,Malaria,1
+0,1,1,0,0,1,0,2,Common Cold,0
+0,1,1,0,1,0,0,0,Common Cold,0
+0,1,1,0,0,0,0,2,Common Cold,0
+0,0,0,0,1,0,0,2,Common Cold,0
+1,1,1,1,0,0,0,2,Pneumonia,2
+0,0,0,1,0,0,0,2,COVID-19,2
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,1,1,0,0,1,2,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,1,0,1,1,Common Cold,0
+0,0,1,0,0,0,1,2,Common Cold,0
+0,0,0,0,0,1,1,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,0,1,1,0,2,Common Cold,0
+0,1,0,0,0,1,0,2,Common Cold,0
+0,1,0,1,0,0,1,2,COVID-19,2
+0,0,0,0,0,0,0,2,Common Cold,0
+1,0,0,0,0,0,0,0,Common Cold,0
+0,1,1,0,0,1,0,2,Common Cold,0
+1,1,0,0,1,0,0,1,Flu,1
+0,1,0,1,1,0,0,2,COVID-19,2
+0,1,1,0,1,0,0,2,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+1,0,0,1,1,1,0,0,Pneumonia,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,1,0,0,0,1,0,Common Cold,0
+0,0,0,0,1,0,0,0,Common Cold,0
+0,1,0,0,0,0,0,2,Common Cold,0
+0,1,1,1,0,0,1,2,COVID-19,2
+1,0,0,1,0,0,0,0,Pneumonia,2
+0,0,0,0,0,0,1,1,Common Cold,0
+0,1,1,0,0,0,0,2,Common Cold,0
+1,1,0,0,1,0,0,2,Flu,1
+0,0,1,0,0,0,0,0,Common Cold,0
+0,0,1,0,1,0,0,1,Common Cold,0
+0,1,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,0,1,2,Common Cold,0
+1,0,1,0,1,0,0,1,Common Cold,0
+0,1,1,1,0,0,0,2,COVID-19,2
+0,1,0,0,1,0,0,0,Common Cold,0
+1,0,0,0,0,0,0,2,Common Cold,0
+1,0,1,0,0,0,0,1,Common Cold,0
+0,1,0,0,0,0,0,1,Common Cold,0
+1,1,0,0,1,0,0,1,Flu,1
+0,1,0,0,0,0,1,0,Common Cold,0
+0,1,0,0,0,0,0,0,Common Cold,0
+0,1,0,0,0,1,0,2,Common Cold,0
+0,1,0,0,0,1,0,0,Common Cold,0
+0,1,1,0,0,0,1,2,Common Cold,0
+0,0,1,1,0,0,0,1,COVID-19,2
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,1,1,0,1,0,2,COVID-19,2
+0,0,0,0,0,1,1,1,Common Cold,0
+0,0,0,0,0,1,0,0,Common Cold,0
+0,0,0,1,0,0,1,0,COVID-19,2
+1,0,0,1,1,0,0,2,Pneumonia,2
+0,0,1,0,1,1,0,2,Common Cold,0
+0,0,0,1,1,0,0,2,COVID-19,2
+0,0,0,1,1,1,0,2,COVID-19,2
+0,1,0,0,0,0,1,2,Common Cold,0
+0,1,0,1,1,1,0,1,COVID-19,2
+1,0,1,1,0,1,1,1,Pneumonia,2
+0,1,0,0,1,0,1,0,Common Cold,0
+0,1,0,1,1,1,0,1,COVID-19,2
+1,0,0,0,0,1,1,2,Malaria,1
+0,1,0,0,0,1,1,2,Common Cold,0
+1,1,0,1,0,0,0,1,Pneumonia,2
+0,0,0,1,1,0,0,0,COVID-19,2
+0,0,1,0,0,0,0,1,Common Cold,0
+0,1,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,1,1,2,Common Cold,0
+1,1,1,0,0,0,0,2,Flu,1
+0,1,0,0,0,0,0,2,Common Cold,0
+1,1,0,1,0,0,1,1,Pneumonia,2
+0,0,1,0,0,0,1,2,Common Cold,0
+0,0,0,0,1,0,0,2,Common Cold,0
+0,1,1,1,0,0,1,1,COVID-19,2
+0,0,0,1,0,0,1,2,COVID-19,2
+0,0,0,0,1,0,0,0,Common Cold,0
+0,0,0,1,0,1,0,1,COVID-19,2
+0,0,0,0,1,1,0,1,Common Cold,0
+1,0,1,1,0,0,0,2,Pneumonia,2
+0,1,0,0,0,0,0,1,Common Cold,0
+0,0,0,1,0,0,1,2,COVID-19,2
+0,0,1,1,1,0,0,1,COVID-19,2
+1,0,0,1,0,0,0,1,Pneumonia,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,1,0,0,0,0,2,Common Cold,0
+0,1,0,0,0,0,0,1,Common Cold,0
+0,1,0,0,0,0,0,2,Common Cold,0
+1,0,0,0,1,0,0,2,Common Cold,0
+1,0,1,0,0,0,1,1,Common Cold,0
+0,1,0,1,0,0,0,2,COVID-19,2
+0,0,0,1,0,0,0,2,COVID-19,2
+0,0,1,1,0,1,0,0,COVID-19,2
+0,0,1,0,0,0,0,0,Common Cold,0
+0,0,1,0,0,0,0,2,Common Cold,0
+1,0,0,0,0,0,1,2,Common Cold,0
+0,1,1,1,1,0,0,2,COVID-19,2
+1,1,0,0,0,0,0,0,Flu,1
+0,0,0,0,0,0,1,1,Common Cold,0
+0,1,0,1,0,1,0,2,COVID-19,2
+1,0,0,0,0,0,1,1,Common Cold,0
+0,1,0,0,1,1,0,2,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+1,0,1,0,0,0,1,2,Common Cold,0
+0,0,0,1,1,1,1,2,COVID-19,2
+0,1,1,1,0,0,0,1,COVID-19,2
+0,0,0,0,0,0,1,2,Common Cold,0
+0,1,1,0,0,0,0,2,Common Cold,0
+0,0,1,0,1,0,0,1,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,0,0,0,1,0,0,Common Cold,0
+0,1,0,0,0,0,0,2,Common Cold,0
+0,0,1,0,0,0,0,1,Common Cold,0
+0,1,1,1,0,0,0,1,COVID-19,2
+1,0,1,0,0,0,0,2,Common Cold,0
+1,0,0,0,0,0,1,1,Common Cold,0
+0,1,0,0,0,0,0,1,Common Cold,0
+1,1,1,0,1,0,0,1,Flu,1
+0,0,0,1,0,1,0,0,COVID-19,2
+0,0,0,0,0,0,1,1,Common Cold,0
+0,1,0,1,1,1,0,1,COVID-19,2
+0,0,0,0,1,0,1,2,Common Cold,0
+0,0,0,1,0,0,0,2,COVID-19,2
+1,0,0,0,0,1,1,2,Malaria,1
+0,0,0,0,0,1,0,2,Common Cold,0
+0,0,0,0,0,1,0,2,Common Cold,0
+1,0,1,0,1,0,0,0,Common Cold,0
+0,1,1,1,0,0,0,0,COVID-19,2
+0,0,0,0,0,0,1,0,Common Cold,0
+1,0,1,0,0,0,1,1,Common Cold,0
+0,1,0,0,0,0,0,1,Common Cold,0
+1,1,0,0,1,1,1,1,Malaria,1
+1,1,0,0,0,0,1,2,Flu,1
+1,1,0,0,1,0,0,1,Flu,1
+0,0,0,0,1,1,1,1,Common Cold,0
+1,1,0,1,0,1,0,1,Pneumonia,2
+0,0,0,1,1,1,0,2,COVID-19,2
+0,1,0,0,1,1,0,2,Common Cold,0
+0,1,0,0,0,0,1,0,Common Cold,0
+0,0,0,1,0,0,0,1,COVID-19,2
+1,0,0,1,0,1,0,2,Pneumonia,2
+0,0,0,1,1,0,1,1,COVID-19,2
+1,1,0,1,0,0,0,2,Pneumonia,2
+1,1,1,1,0,0,0,0,Pneumonia,2
+0,0,1,1,0,1,0,2,COVID-19,2
+0,0,1,0,0,0,0,2,Common Cold,0
+0,1,0,0,0,1,0,1,Common Cold,0
+0,0,1,0,0,0,0,1,Common Cold,0
+0,0,0,0,1,1,0,1,Common Cold,0
+1,1,0,1,1,0,0,2,Pneumonia,2
+0,1,1,1,0,0,0,2,COVID-19,2
+1,0,0,1,1,0,0,2,Pneumonia,2
+1,1,0,0,0,1,1,2,Malaria,1
+0,1,0,0,0,1,1,0,Common Cold,0
+0,1,0,1,0,0,0,0,COVID-19,2
+0,0,0,0,1,0,0,2,Common Cold,0
+0,0,1,1,1,0,1,1,COVID-19,2
+0,1,0,1,0,0,1,0,COVID-19,2
+1,1,1,0,0,1,1,1,Malaria,1
+1,0,1,0,0,0,0,2,Common Cold,0
+0,1,0,0,0,0,0,0,Common Cold,0
+1,0,0,1,0,0,0,1,Pneumonia,2
+0,0,1,1,0,1,0,0,COVID-19,2
+0,0,0,0,1,1,0,2,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,1,1,0,0,0,1,COVID-19,2
+1,0,0,0,0,1,0,2,Malaria,1
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,1,0,1,0,2,COVID-19,2
+1,1,0,0,0,0,0,2,Flu,1
+0,1,0,1,0,0,1,0,COVID-19,2
+1,0,0,1,0,1,0,2,Pneumonia,2
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,1,0,2,Common Cold,0
+0,1,0,0,1,1,0,1,Common Cold,0
+0,0,1,0,0,0,0,0,Common Cold,0
+1,0,1,0,0,0,0,2,Common Cold,0
+0,0,0,0,1,0,1,1,Common Cold,0
+0,0,1,1,0,0,0,0,COVID-19,2
+0,0,0,0,0,1,0,2,Common Cold,0
+0,0,0,0,0,0,1,1,Common Cold,0
+1,0,0,0,1,0,1,0,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,1,1,0,2,Common Cold,0
+0,0,0,1,0,1,1,1,COVID-19,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,0,0,0,1,0,0,2,Common Cold,0
+0,1,0,1,1,0,0,2,COVID-19,2
+1,1,0,1,0,0,0,0,Pneumonia,2
+0,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,1,1,0,1,1,COVID-19,2
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,1,1,1,1,0,1,COVID-19,2
+0,0,0,1,0,1,0,2,COVID-19,2
+0,0,1,0,0,0,0,0,Common Cold,0
+0,0,0,0,1,1,0,1,Common Cold,0
+0,1,1,1,0,0,0,1,COVID-19,2
+0,0,1,0,1,0,1,2,Common Cold,0
+1,1,1,0,0,0,1,2,Flu,1
+0,0,0,1,0,0,0,0,COVID-19,2
+0,0,1,0,0,1,1,2,Common Cold,0
+0,1,0,1,0,0,0,0,COVID-19,2
+1,0,0,0,0,1,1,2,Malaria,1
+0,0,0,0,0,1,0,0,Common Cold,0
+0,0,1,0,0,0,1,2,Common Cold,0
+0,0,0,0,1,1,1,0,Common Cold,0
+1,0,1,0,0,0,0,1,Common Cold,0
+1,0,0,0,0,1,0,0,Malaria,1
+1,1,0,1,0,1,0,2,Pneumonia,2
+0,0,0,0,1,0,0,1,Common Cold,0
+0,1,0,0,1,1,0,0,Common Cold,0
+1,1,1,1,1,1,1,0,Pneumonia,2
+0,0,0,1,1,1,1,0,COVID-19,2
+1,0,0,0,1,0,1,1,Common Cold,0
+0,0,0,1,0,1,1,2,COVID-19,2
+0,1,0,0,0,1,0,1,Common Cold,0
+0,0,0,1,0,1,0,2,COVID-19,2
+0,0,0,0,1,0,1,2,Common Cold,0
+0,0,0,0,0,1,0,0,Common Cold,0
+0,0,1,1,1,1,0,0,COVID-19,2
+0,1,1,0,0,0,1,0,Common Cold,0
+1,0,0,1,0,1,1,1,Pneumonia,2
+1,0,0,1,0,0,1,1,Pneumonia,2
+1,1,0,0,0,0,1,2,Flu,1
+0,0,1,0,1,1,0,1,Common Cold,0
+1,0,0,1,1,0,0,0,Pneumonia,2
+0,0,0,0,0,0,0,1,Common Cold,0
+0,1,0,0,1,0,1,0,Common Cold,0
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,0,1,0,0,1,2,COVID-19,2
+0,0,0,0,0,0,1,1,Common Cold,0
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,1,1,1,Common Cold,0
+1,0,1,0,0,0,0,2,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,1,0,0,1,0,COVID-19,2
+0,0,1,1,1,0,0,0,COVID-19,2
+1,1,0,0,0,0,0,1,Flu,1
+0,0,1,1,1,1,0,0,COVID-19,2
+1,0,0,0,1,0,0,1,Common Cold,0
+1,0,0,0,1,1,0,0,Malaria,1
+1,0,1,0,0,1,0,1,Malaria,1
+0,1,0,0,1,0,0,0,Common Cold,0
+1,0,0,0,1,1,0,0,Malaria,1
+1,0,1,0,0,0,1,1,Common Cold,0
+0,0,0,0,0,1,0,2,Common Cold,0
+0,0,0,1,1,0,1,0,COVID-19,2
+0,0,0,0,1,0,1,1,Common Cold,0
+0,1,1,1,0,1,1,0,COVID-19,2
+0,0,0,0,1,0,1,1,Common Cold,0
+0,0,0,1,1,0,1,1,COVID-19,2
+0,0,0,0,0,0,1,0,Common Cold,0
+0,0,1,1,1,0,0,2,COVID-19,2
+0,0,0,0,0,0,0,0,Common Cold,0
+1,0,0,0,0,0,0,0,Common Cold,0
+0,1,0,0,0,1,0,2,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+0,1,1,0,1,0,0,1,Common Cold,0
+0,0,0,0,0,1,1,1,Common Cold,0
+0,0,0,0,0,0,0,2,Common Cold,0
+1,0,0,1,0,0,0,1,Pneumonia,2
+1,0,0,0,0,0,1,0,Common Cold,0
+0,0,0,0,0,0,0,1,Common Cold,0
+1,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,0,1,1,0,Common Cold,0
+0,0,0,0,0,1,0,0,Common Cold,0
+1,0,0,0,0,0,0,1,Common Cold,0
+0,0,1,0,0,0,0,1,Common Cold,0
+1,0,1,1,1,0,1,0,Pneumonia,2
+0,0,1,0,0,0,0,1,Common Cold,0
+1,1,1,0,0,0,0,0,Flu,1
+1,0,1,1,0,1,1,1,Pneumonia,2
+0,0,0,0,0,0,0,0,Common Cold,0
+0,0,0,0,1,0,0,1,Common Cold,0
+0,0,0,1,1,0,1,1,COVID-19,2
+1,0,0,0,0,1,0,0,Malaria,1
+0,0,0,1,1,0,0,1,COVID-19,2
+1,1,0,1,0,0,1,1,Pneumonia,2
+0,0,0,0,1,0,1,0,Common Cold,0
+0,1,0,0,0,0,0,2,Common Cold,0
+1,0,1,1,1,0,0,0,Pneumonia,2
+0,0,0,0,0,0,0,2,Common Cold,0
+0,1,1,1,1,1,0,2,COVID-19,2
+1,1,0,0,0,0,1,0,Flu,1
+0,0,0,0,0,0,0,0,Common Cold,0
+1,1,1,0,0,0,1,2,Flu,1
+0,1,0,0,0,0,0,2,Common Cold,0
+0,0,1,0,0,0,0,0,Common Cold,0
+0,0,0,1,1,1,0,0,COVID-19,2
+1,0,0,1,0,0,1,2,Pneumonia,2
+0,0,0,1,0,0,1,0,COVID-19,2
+1,1,0,1,0,1,1,0,Pneumonia,2
+1,1,0,0,0,0,1,2,Flu,1
+0,0,0,0,0,0,0,2,Common Cold,0
+0,0,0,1,1,1,0,1,COVID-19,2
+0,0,0,1,0,0,1,0,COVID-19,2
+0,0,0,1,0,1,1,2,COVID-19,2
+0,0,0,0,1,0,1,1,Common Cold,0
+0,1,0,1,0,1,0,2,COVID-19,2
+0,0,1,1,0,0,0,0,COVID-19,2
